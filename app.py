@@ -625,24 +625,32 @@ def load_market_extended(extended_path_str: str | None):
 @st.cache_data
 def load_market_destinos(dest_path_str: str | None):
     if dest_path_str is None:
-        return None
+        return None, None, None
 
     fp = Path(dest_path_str)
     xls = pd.ExcelFile(fp)
 
-    df = None
+    debug = {
+        "sheets": xls.sheet_names,
+        "columns_by_sheet": {}
+    }
+
+    best_df = None
+    best_sheet = None
+
     for sh in xls.sheet_names:
         tmp = pd.read_excel(fp, sheet_name=sh)
         tmp = clean_excel_columns(tmp)
-        if len(tmp.columns) >= 2:
-            df = tmp.copy()
-            break
+        debug["columns_by_sheet"][sh] = tmp.columns.tolist()
 
-    if df is None or df.empty:
-        return None
+        if best_df is None and not tmp.empty:
+            best_df = tmp.copy()
+            best_sheet = sh
 
-    # intenta detectar columnas con nombres más flexibles
-    cols_lower = {c.lower(): c for c in df.columns}
+    if best_df is None:
+        return None, None, debug
+
+    df = best_df.copy()
 
     municipio_col = None
     estado_col = None
@@ -661,7 +669,7 @@ def load_market_destinos(dest_path_str: str | None):
             valor_col = c
 
     if municipio_col is None:
-        return None
+        return None, best_sheet, debug
 
     out = df.copy()
 
@@ -683,8 +691,7 @@ def load_market_destinos(dest_path_str: str | None):
 
     out = out.rename(columns=rename_map)
 
-    return out
-
+    return out, best_sheet, debug
 
 @st.cache_data
 def build_total_forecast_from_final(final_path_str: str):
@@ -1549,7 +1556,9 @@ else:
         totalcombined, market_metrics, best_market_model = build_total_forecast_from_final(str(market_final))
         market_hist = load_market_final(str(market_final))
         market_ext = load_market_extended(str(market_extended)) if market_extended is not None else None
-        dest_df = load_market_destinos(str(market_destinos)) if market_destinos is not None else None
+        dest_df, dest_sheet, dest_debug = load_market_destinos(str(market_destinos)) if market_destinos is not None else (None, None, None)
+        st.write("Hoja destinos usada:", dest_sheet)
+        st.write("Debug destinos:", dest_debug)
         st.write("Columnas destinos:", None if dest_df is None else dest_df.columns.tolist())
 
         totalcombined = totalcombined.sort_values("Fecha").copy()
