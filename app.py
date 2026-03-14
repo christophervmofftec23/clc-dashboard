@@ -1547,7 +1547,7 @@ st.plotly_chart(fig_rank, use_container_width=True)
 st.divider()
 st.subheader("Mercado farma — imports y outlook comercial")
 
-market_final, market_extended, market_destinos = resolve_market_files()
+market_final, market_extended = resolve_market_files()
 
 if market_final is None:
     st.warning("No encontré Farma_Imports_BBDD_Final.xlsx. Este módulo no se puede mostrar.")
@@ -1556,10 +1556,7 @@ else:
         totalcombined, market_metrics, best_market_model = build_total_forecast_from_final(str(market_final))
         market_hist = load_market_final(str(market_final))
         market_ext = load_market_extended(str(market_extended)) if market_extended is not None else None
-        dest_df, dest_sheet, dest_debug = load_market_destinos(str(market_destinos)) if market_destinos is not None else (None, None, None)
-        st.write("Hoja destinos usada:", dest_sheet)
-        st.write("Debug destinos:", dest_debug)
-        st.write("Columnas destinos:", None if dest_df is None else dest_df.columns.tolist())
+
 
         totalcombined = totalcombined.sort_values("Fecha").copy()
         totalcombined["Año"] = totalcombined["Fecha"].dt.year
@@ -1603,7 +1600,7 @@ else:
         if not val_25.empty and not val_26.empty and val_25.iloc[0] > 0:
             growth_26_vs_25 = val_26.iloc[0] / val_25.iloc[0] - 1
 
-        market_tabs = st.tabs(["Visión total", "Categorías", "Destinos"])
+        market_tabs = st.tabs(["Visión total", "Categorías"])
 
         with market_tabs[0]:
             k1, k2, k3, k4 = st.columns(4)
@@ -1734,101 +1731,6 @@ else:
                     fig_mix.update_traces(texttemplate="%{x:.1%}", textposition="outside")
                     fig_mix.update_layout(height=430, margin=dict(l=10, r=30, t=55, b=10))
                     st.plotly_chart(fig_mix, use_container_width=True, config={"displayModeBar": False})
-
-        with market_tabs[2]:
-            if dest_df is None or dest_df.empty or "Municipio" not in dest_df.columns:
-                st.info("No pude construir la vista de destinos desde el archivo Imports-by-Municipality.")
-            else:
-                share_col = "Share_Imports" if "Share_Imports" in dest_df.columns else None
-                val_col = "Valor_Imports" if "Valor_Imports" in dest_df.columns else None
-
-                plot_df = dest_df.copy()
-
-                if share_col and plot_df[share_col].notna().any():
-                    plot_df[share_col] = pd.to_numeric(plot_df[share_col], errors="coerce")
-                    plot_df = plot_df.dropna(subset=[share_col]).copy()
-
-                    # si el share viene como 22.8 en vez de 0.228, normalizarlo
-                    if plot_df[share_col].max() > 1:
-                        plot_df[share_col] = plot_df[share_col] / 100.0
-
-                    plot_df = plot_df.sort_values(share_col, ascending=False).head(10)
-
-                    c1, c2 = st.columns([1.35, 1.0])
-
-                    with c1:
-                        fig_dest = px.bar(
-                            plot_df.sort_values(share_col, ascending=True),
-                            x=share_col,
-                            y="Municipio",
-                            orientation="h",
-                            color="Estado" if "Estado" in plot_df.columns else "Municipio",
-                            title="Top municipios por participación de imports",
-                            text=share_col
-                        )
-                        fig_dest = apply_boardroom_theme(fig_dest, yaxis_money=False)
-                        fig_dest.update_xaxes(tickformat=".0%")
-                        fig_dest.update_traces(texttemplate="%{x:.1%}", textposition="outside")
-                        fig_dest.update_layout(
-                            height=430,
-                            margin=dict(l=10, r=30, t=60, b=80),
-                            legend=dict(
-                                orientation="h",
-                                yanchor="top",
-                                y=-0.18,
-                                xanchor="center",
-                                x=0.5,
-                                title=None,
-                                font=dict(size=10)
-                            )
-                        )
-                        st.plotly_chart(fig_dest, use_container_width=True, config={"displayModeBar": False})
-
-                    with c2:
-                        fig_pie = px.pie(
-                            plot_df,
-                            values=share_col,
-                            names="Municipio",
-                            title="Distribución relativa de destinos"
-                        )
-                        fig_pie.update_traces(textposition="inside", textinfo="percent+label")
-                        fig_pie = apply_boardroom_theme(fig_pie, yaxis_money=False)
-                        fig_pie.update_layout(
-                            height=470,
-                            margin=dict(l=10, r=10, t=60, b=95),
-                            legend=dict(
-                                orientation="h",
-                                yanchor="top",
-                                y=-0.22,
-                                xanchor="center",
-                                x=0.5,
-                                title=None,
-                                font=dict(size=10),
-                                bgcolor="rgba(255,255,255,0.92)"
-                            )
-                        )
-                        st.plotly_chart(fig_pie, use_container_width=True, config={"displayModeBar": False})
-
-                elif val_col and plot_df[val_col].notna().any():
-                    plot_df[val_col] = pd.to_numeric(plot_df[val_col], errors="coerce")
-                    plot_df = plot_df.dropna(subset=[val_col]).sort_values(val_col, ascending=False).head(10)
-
-                    fig_dest = px.bar(
-                        plot_df.sort_values(val_col, ascending=True),
-                        x=val_col,
-                        y="Municipio",
-                        orientation="h",
-                        color="Estado" if "Estado" in plot_df.columns else "Municipio",
-                        title="Top municipios por valor de imports",
-                        text=val_col
-                    )
-                    fig_dest = apply_boardroom_theme(fig_dest, yaxis_money=True)
-                    fig_dest.update_traces(texttemplate="%{x:,.0f}", textposition="outside")
-                    fig_dest.update_layout(height=430, margin=dict(l=10, r=30, t=55, b=10))
-                    st.plotly_chart(fig_dest, use_container_width=True, config={"displayModeBar": False})
-                else:
-                    st.info("El archivo de destinos no trae columnas compatibles de share o valor.")
-                    
 
     except Exception as e:
         st.error(f"No pude integrar el módulo de mercado. Error: {e}")
