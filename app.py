@@ -531,11 +531,18 @@ def compute_forecast_state_12m(_state_month):
 # =========================================================
 @st.cache_data
 def resolve_market_files():
-    market_final = resolve_first_match(MARKET_FOLDER, ["Farma_Imports_BBDD_Final*.xlsx", "FarmaImportsBBDDFinal*.xlsx"])
-    market_extended = resolve_first_match(MARKET_FOLDER, ["Farma_Imports_BBDD_Extendida*.xlsx", "FarmaImportsBBDDExtendida*.xlsx"])
-    market_destinos = resolve_first_match(MARKET_FOLDER, ["Imports-by-Municipality*.xlsx"])
-    return market_final, market_extended, market_destinos
+    market_final = MARKET_FOLDER / "Farma_Imports_BBDD_Final.xlsx"
+    market_extended = MARKET_FOLDER / "Farma_Imports_BBDD_Extendida_2026_2027.xlsx"
+    market_destinos = MARKET_FOLDER / "Imports-by-Municipality-2024-Click-on-the-Visualization.xlsx"
 
+    if not market_final.exists():
+        market_final = None
+    if not market_extended.exists():
+        market_extended = None
+    if not market_destinos.exists():
+        market_destinos = None
+
+    return market_final, market_extended, market_destinos
 
 @st.cache_data
 def load_market_final(final_path_str: str):
@@ -1507,7 +1514,7 @@ st.subheader("Mercado farma — imports y outlook comercial")
 market_final, market_extended, market_destinos = resolve_market_files()
 
 if market_final is None:
-    st.warning("No encontré Farma_Imports_BBDD_Final.xlsx dentro de ricardo/Archivo. Este módulo no se puede mostrar.")
+    st.warning("No encontré Farma_Imports_BBDD_Final.xlsx. Este módulo no se puede mostrar.")
 else:
     try:
         totalcombined, market_metrics, best_market_model = build_total_forecast_from_final(str(market_final))
