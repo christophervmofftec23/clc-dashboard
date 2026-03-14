@@ -10,5 +10,4 @@ requests
 openpyxl
 statsmodels
 pyogrio
-fiona
 scikit-learn
