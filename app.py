@@ -1550,6 +1550,7 @@ else:
         market_hist = load_market_final(str(market_final))
         market_ext = load_market_extended(str(market_extended)) if market_extended is not None else None
         dest_df = load_market_destinos(str(market_destinos)) if market_destinos is not None else None
+        st.write("Columnas destinos:", None if dest_df is None else dest_df.columns.tolist())
 
         totalcombined = totalcombined.sort_values("Fecha").copy()
         totalcombined["Año"] = totalcombined["Fecha"].dt.year
