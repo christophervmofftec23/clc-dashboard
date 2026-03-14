@@ -533,16 +533,13 @@ def compute_forecast_state_12m(_state_month):
 def resolve_market_files():
     market_final = MARKET_FOLDER / "Farma_Imports_BBDD_Final.xlsx"
     market_extended = MARKET_FOLDER / "Farma_Imports_BBDD_Extendida_2026_2027.xlsx"
-    market_destinos = MARKET_FOLDER / "Imports-by-Municipality-2024-Click-on-the-Visualization.xlsx"
 
     if not market_final.exists():
         market_final = None
     if not market_extended.exists():
         market_extended = None
-    if not market_destinos.exists():
-        market_destinos = None
 
-    return market_final, market_extended, market_destinos
+    return market_final, market_extended
 
 @st.cache_data
 def load_market_final(final_path_str: str):
