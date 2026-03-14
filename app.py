@@ -628,31 +628,60 @@ def load_market_destinos(dest_path_str: str | None):
         return None
 
     fp = Path(dest_path_str)
-    df = pd.read_excel(fp, sheet_name=0)
-    df = clean_excel_columns(df)
+    xls = pd.ExcelFile(fp)
 
-    municipio_col = pick_col(df, ["Municipio", "Destino", "Municipality"])
-    estado_col = pick_col(df, ["Estado", "State"])
-    share_col = pick_col(df, ["Share_Imports_2024", "Share_Imports", "Share", "Participacion", "Participación"])
-    valor_col = pick_col(df, ["Imports_2024", "Valor_2024", "Valor", "Imports_Total"])
+    df = None
+    for sh in xls.sheet_names:
+        tmp = pd.read_excel(fp, sheet_name=sh)
+        tmp = clean_excel_columns(tmp)
+        if len(tmp.columns) >= 2:
+            df = tmp.copy()
+            break
+
+    if df is None or df.empty:
+        return None
+
+    # intenta detectar columnas con nombres más flexibles
+    cols_lower = {c.lower(): c for c in df.columns}
+
+    municipio_col = None
+    estado_col = None
+    share_col = None
+    valor_col = None
+
+    for c in df.columns:
+        cl = str(c).strip().lower()
+        if municipio_col is None and ("municip" in cl or "destino" in cl):
+            municipio_col = c
+        if estado_col is None and ("estado" in cl or "state" in cl or "entidad" in cl):
+            estado_col = c
+        if share_col is None and ("share" in cl or "particip" in cl or "%" in cl):
+            share_col = c
+        if valor_col is None and ("valor" in cl or "import" in cl or "usd" in cl or "monto" in cl):
+            valor_col = c
 
     if municipio_col is None:
         return None
 
     out = df.copy()
-    if share_col:
+
+    if share_col is not None:
         out[share_col] = pd.to_numeric(out[share_col], errors="coerce")
-    if valor_col:
+    if valor_col is not None:
         out[valor_col] = pd.to_numeric(out[valor_col], errors="coerce")
 
     keep_cols = [c for c in [municipio_col, estado_col, share_col, valor_col] if c is not None]
     out = out[keep_cols].copy()
-    out = out.rename(columns={
-        municipio_col: "Municipio",
-        estado_col: "Estado",
-        share_col: "Share_Imports",
-        valor_col: "Valor_Imports",
-    })
+
+    rename_map = {municipio_col: "Municipio"}
+    if estado_col is not None:
+        rename_map[estado_col] = "Estado"
+    if share_col is not None:
+        rename_map[share_col] = "Share_Imports"
+    if valor_col is not None:
+        rename_map[valor_col] = "Valor_Imports"
+
+    out = out.rename(columns=rename_map)
 
     return out
 
