@@ -1,0 +1,2487 @@
+﻿CVEGEO,Entidad,Municipio,Incidentes_12m,Riesgo_0_10
+01001,Aguascalientes,Aguascalientes,0,0.0
+01002,Aguascalientes,Asientos,0,0.0
+01003,Aguascalientes,Calvillo,0,0.0
+01004,Aguascalientes,Cosío,0,0.0
+01005,Aguascalientes,Jesús María,0,0.0
+01006,Aguascalientes,Pabellón de Arteaga,0,0.0
+01007,Aguascalientes,Rincón de Romos,0,0.0
+01008,Aguascalientes,San José de Gracia,0,0.0
+01009,Aguascalientes,Tepezalá,0,0.0
+01010,Aguascalientes,El Llano,0,0.0
+01011,Aguascalientes,San Francisco de los Romo,0,0.0
+02001,Baja California,Ensenada,2,0.0447427293064877
+02002,Baja California,Mexicali,10,0.22371364653243847
+02003,Baja California,Tecate,0,0.0
+02004,Baja California,Tijuana,14,0.3131991051454139
+02005,Baja California,Playas de Rosarito,0,0.0
+02006,Baja California,San Quintín,0,0.0
+02007,Baja California,San Felipe,0,0.0
+03001,Baja California Sur,Comondú,0,0.0
+03002,Baja California Sur,Mulegé,0,0.0
+03003,Baja California Sur,La Paz,0,0.0
+03008,Baja California Sur,Los Cabos,0,0.0
+03009,Baja California Sur,Loreto,0,0.0
+04001,Campeche,Calkiní,0,0.0
+04002,Campeche,Campeche,0,0.0
+04003,Campeche,Carmen,0,0.0
+04004,Campeche,Champotón,0,0.0
+04005,Campeche,Hecelchakán,0,0.0
+04006,Campeche,Hopelchén,0,0.0
+04007,Campeche,Palizada,0,0.0
+04008,Campeche,Tenabo,0,0.0
+04009,Campeche,Escárcega,0,0.0
+04010,Campeche,Calakmul,0,0.0
+04011,Campeche,Candelaria,0,0.0
+04012,Campeche,Seybaplaya,0,0.0
+04013,Campeche,Dzitbalché,0,0.0
+05001,Coahuila de Zaragoza,Abasolo,0,0.0
+05002,Coahuila de Zaragoza,Acuña,0,0.0
+05003,Coahuila de Zaragoza,Allende,0,0.0
+05004,Coahuila de Zaragoza,Arteaga,0,0.0
+05005,Coahuila de Zaragoza,Candela,0,0.0
+05006,Coahuila de Zaragoza,Castaños,0,0.0
+05007,Coahuila de Zaragoza,Cuatro Ciénegas,0,0.0
+05008,Coahuila de Zaragoza,Escobedo,0,0.0
+05009,Coahuila de Zaragoza,Francisco I. Madero,0,0.0
+05010,Coahuila de Zaragoza,Frontera,0,0.0
+05011,Coahuila de Zaragoza,General Cepeda,0,0.0
+05012,Coahuila de Zaragoza,Guerrero,0,0.0
+05013,Coahuila de Zaragoza,Hidalgo,0,0.0
+05014,Coahuila de Zaragoza,Jiménez,0,0.0
+05015,Coahuila de Zaragoza,Juárez,0,0.0
+05016,Coahuila de Zaragoza,Lamadrid,0,0.0
+05017,Coahuila de Zaragoza,Matamoros,0,0.0
+05018,Coahuila de Zaragoza,Monclova,0,0.0
+05019,Coahuila de Zaragoza,Morelos,0,0.0
+05020,Coahuila de Zaragoza,Múzquiz,0,0.0
+05021,Coahuila de Zaragoza,Nadadores,0,0.0
+05022,Coahuila de Zaragoza,Nava,0,0.0
+05023,Coahuila de Zaragoza,Ocampo,0,0.0
+05024,Coahuila de Zaragoza,Parras,0,0.0
+05025,Coahuila de Zaragoza,Piedras Negras,1,0.02237136465324385
+05026,Coahuila de Zaragoza,Progreso,0,0.0
+05027,Coahuila de Zaragoza,Ramos Arizpe,1,0.02237136465324385
+05028,Coahuila de Zaragoza,Sabinas,1,0.02237136465324385
+05029,Coahuila de Zaragoza,Sacramento,0,0.0
+05030,Coahuila de Zaragoza,Saltillo,2,0.0447427293064877
+05031,Coahuila de Zaragoza,San Buenaventura,0,0.0
+05032,Coahuila de Zaragoza,San Juan de Sabinas,0,0.0
+05033,Coahuila de Zaragoza,San Pedro,0,0.0
+05034,Coahuila de Zaragoza,Sierra Mojada,0,0.0
+05035,Coahuila de Zaragoza,Torreón,0,0.0
+05036,Coahuila de Zaragoza,Viesca,0,0.0
+05037,Coahuila de Zaragoza,Villa Unión,0,0.0
+05038,Coahuila de Zaragoza,Zaragoza,0,0.0
+06001,Colima,Armería,0,0.0
+06002,Colima,Colima,1,0.02237136465324385
+06003,Colima,Comala,0,0.0
+06004,Colima,Coquimatlán,0,0.0
+06005,Colima,Cuauhtémoc,1,0.02237136465324385
+06006,Colima,Ixtlahuacán,0,0.0
+06007,Colima,Manzanillo,12,0.2684563758389262
+06008,Colima,Minatitlán,1,0.02237136465324385
+06009,Colima,Tecomán,1,0.02237136465324385
+06010,Colima,Villa de Álvarez,0,0.0
+07001,Chiapas,Acacoyagua,0,0.0
+07002,Chiapas,Acala,0,0.0
+07003,Chiapas,Acapetahua,0,0.0
+07004,Chiapas,Altamirano,0,0.0
+07005,Chiapas,Amatán,0,0.0
+07006,Chiapas,Amatenango de la Frontera,0,0.0
+07007,Chiapas,Amatenango del Valle,0,0.0
+07008,Chiapas,Angel Albino Corzo,0,0.0
+07009,Chiapas,Arriaga,0,0.0
+07010,Chiapas,Bejucal de Ocampo,0,0.0
+07011,Chiapas,Bella Vista,0,0.0
+07012,Chiapas,Berriozábal,0,0.0
+07013,Chiapas,Bochil,0,0.0
+07014,Chiapas,El Bosque,0,0.0
+07015,Chiapas,Cacahoatán,0,0.0
+07016,Chiapas,Catazajá,0,0.0
+07017,Chiapas,Cintalapa,0,0.0
+07018,Chiapas,Coapilla,0,0.0
+07019,Chiapas,Comitán de Domínguez,0,0.0
+07020,Chiapas,La Concordia,0,0.0
+07021,Chiapas,Copainalá,0,0.0
+07022,Chiapas,Chalchihuitán,0,0.0
+07023,Chiapas,Chamula,0,0.0
+07024,Chiapas,Chanal,0,0.0
+07025,Chiapas,Chapultenango,0,0.0
+07026,Chiapas,Chenalhó,0,0.0
+07027,Chiapas,Chiapa de Corzo,0,0.0
+07028,Chiapas,Chiapilla,0,0.0
+07029,Chiapas,Chicoasén,0,0.0
+07030,Chiapas,Chicomuselo,0,0.0
+07031,Chiapas,Chilón,0,0.0
+07032,Chiapas,Escuintla,0,0.0
+07033,Chiapas,Francisco León,0,0.0
+07034,Chiapas,Frontera Comalapa,0,0.0
+07035,Chiapas,Frontera Hidalgo,0,0.0
+07036,Chiapas,La Grandeza,0,0.0
+07037,Chiapas,Huehuetán,0,0.0
+07038,Chiapas,Huixtán,0,0.0
+07039,Chiapas,Huitiupán,0,0.0
+07040,Chiapas,Huixtla,0,0.0
+07041,Chiapas,La Independencia,0,0.0
+07042,Chiapas,Ixhuatán,0,0.0
+07043,Chiapas,Ixtacomitán,0,0.0
+07044,Chiapas,Ixtapa,0,0.0
+07045,Chiapas,Ixtapangajoya,0,0.0
+07046,Chiapas,Jiquipilas,0,0.0
+07047,Chiapas,Jitotol,0,0.0
+07048,Chiapas,Juárez,0,0.0
+07049,Chiapas,Larráinzar,0,0.0
+07050,Chiapas,La Libertad,0,0.0
+07051,Chiapas,Mapastepec,0,0.0
+07052,Chiapas,Las Margaritas,0,0.0
+07053,Chiapas,Mazapa de Madero,0,0.0
+07054,Chiapas,Mazatán,0,0.0
+07055,Chiapas,Metapa,0,0.0
+07056,Chiapas,Mitontic,0,0.0
+07057,Chiapas,Motozintla,0,0.0
+07058,Chiapas,Nicolás Ruíz,0,0.0
+07059,Chiapas,Ocosingo,0,0.0
+07060,Chiapas,Ocotepec,0,0.0
+07061,Chiapas,Ocozocoautla de Espinosa,0,0.0
+07062,Chiapas,Ostuacán,0,0.0
+07063,Chiapas,Osumacinta,0,0.0
+07064,Chiapas,Oxchuc,0,0.0
+07065,Chiapas,Palenque,0,0.0
+07066,Chiapas,Pantelhó,0,0.0
+07067,Chiapas,Pantepec,0,0.0
+07068,Chiapas,Pichucalco,0,0.0
+07069,Chiapas,Pijijiapan,0,0.0
+07070,Chiapas,El Porvenir,0,0.0
+07071,Chiapas,Villa Comaltitlán,0,0.0
+07072,Chiapas,Pueblo Nuevo Solistahuacán,0,0.0
+07073,Chiapas,Rayón,0,0.0
+07074,Chiapas,Reforma,0,0.0
+07075,Chiapas,Las Rosas,0,0.0
+07076,Chiapas,Sabanilla,0,0.0
+07077,Chiapas,Salto de Agua,0,0.0
+07078,Chiapas,San Cristóbal de las Casas,0,0.0
+07079,Chiapas,San Fernando,0,0.0
+07080,Chiapas,Siltepec,0,0.0
+07081,Chiapas,Simojovel,0,0.0
+07082,Chiapas,Sitalá,0,0.0
+07083,Chiapas,Socoltenango,0,0.0
+07084,Chiapas,Solosuchiapa,0,0.0
+07085,Chiapas,Soyaló,0,0.0
+07086,Chiapas,Suchiapa,0,0.0
+07087,Chiapas,Suchiate,0,0.0
+07088,Chiapas,Sunuapa,0,0.0
+07089,Chiapas,Tapachula,0,0.0
+07090,Chiapas,Tapalapa,0,0.0
+07091,Chiapas,Tapilula,0,0.0
+07092,Chiapas,Tecpatán,0,0.0
+07093,Chiapas,Tenejapa,0,0.0
+07094,Chiapas,Teopisca,0,0.0
+07096,Chiapas,Tila,0,0.0
+07097,Chiapas,Tonalá,0,0.0
+07098,Chiapas,Totolapa,0,0.0
+07099,Chiapas,La Trinitaria,0,0.0
+07100,Chiapas,Tumbalá,0,0.0
+07101,Chiapas,Tuxtla Gutiérrez,0,0.0
+07102,Chiapas,Tuxtla Chico,0,0.0
+07103,Chiapas,Tuzantán,0,0.0
+07104,Chiapas,Tzimol,0,0.0
+07105,Chiapas,Unión Juárez,0,0.0
+07106,Chiapas,Venustiano Carranza,0,0.0
+07107,Chiapas,Villa Corzo,0,0.0
+07108,Chiapas,Villaflores,0,0.0
+07109,Chiapas,Yajalón,0,0.0
+07110,Chiapas,San Lucas,0,0.0
+07111,Chiapas,Zinacantán,0,0.0
+07112,Chiapas,San Juan Cancuc,0,0.0
+07113,Chiapas,Aldama,0,0.0
+07114,Chiapas,Benemérito de las Américas,0,0.0
+07115,Chiapas,Maravilla Tenejapa,0,0.0
+07116,Chiapas,Marqués de Comillas,0,0.0
+07117,Chiapas,Montecristo de Guerrero,0,0.0
+07118,Chiapas,San Andrés Duraznal,0,0.0
+07119,Chiapas,Santiago el Pinar,0,0.0
+07120,Chiapas,Capitán Luis Ángel Vidal,0,0.0
+07121,Chiapas,Rincón Chamula San Pedro,0,0.0
+07122,Chiapas,El Parral,0,0.0
+07123,Chiapas,Emiliano Zapata,0,0.0
+07124,Chiapas,Mezcalapa,0,0.0
+07125,Chiapas,Honduras de la Sierra,0,0.0
+08001,Chihuahua,Ahumada,0,0.0
+08002,Chihuahua,Aldama,1,0.02237136465324385
+08003,Chihuahua,Allende,0,0.0
+08004,Chihuahua,Aquiles Serdán,0,0.0
+08005,Chihuahua,Ascensión,0,0.0
+08006,Chihuahua,Bachíniva,0,0.0
+08007,Chihuahua,Balleza,0,0.0
+08008,Chihuahua,Batopilas de Manuel Gómez Morín,0,0.0
+08009,Chihuahua,Bocoyna,0,0.0
+08010,Chihuahua,Buenaventura,1,0.02237136465324385
+08011,Chihuahua,Camargo,0,0.0
+08012,Chihuahua,Carichí,0,0.0
+08013,Chihuahua,Casas Grandes,0,0.0
+08014,Chihuahua,Coronado,0,0.0
+08015,Chihuahua,Coyame del Sotol,0,0.0
+08016,Chihuahua,La Cruz,0,0.0
+08017,Chihuahua,Cuauhtémoc,0,0.0
+08018,Chihuahua,Cusihuiriachi,0,0.0
+08019,Chihuahua,Chihuahua,15,0.33557046979865773
+08020,Chihuahua,Chínipas,0,0.0
+08021,Chihuahua,Delicias,2,0.0447427293064877
+08022,Chihuahua,Dr. Belisario Domínguez,0,0.0
+08023,Chihuahua,Galeana,0,0.0
+08024,Chihuahua,Santa Isabel,0,0.0
+08025,Chihuahua,Gómez Farías,0,0.0
+08026,Chihuahua,Gran Morelos,0,0.0
+08027,Chihuahua,Guachochi,0,0.0
+08028,Chihuahua,Guadalupe,0,0.0
+08029,Chihuahua,Guadalupe y Calvo,0,0.0
+08030,Chihuahua,Guazapares,0,0.0
+08031,Chihuahua,Guerrero,0,0.0
+08032,Chihuahua,Hidalgo del Parral,1,0.02237136465324385
+08033,Chihuahua,Huejotitán,0,0.0
+08034,Chihuahua,Ignacio Zaragoza,0,0.0
+08035,Chihuahua,Janos,1,0.02237136465324385
+08036,Chihuahua,Jiménez,2,0.0447427293064877
+08037,Chihuahua,Juárez,5,0.11185682326621924
+08038,Chihuahua,Julimes,0,0.0
+08039,Chihuahua,López,0,0.0
+08040,Chihuahua,Madera,0,0.0
+08041,Chihuahua,Maguarichi,0,0.0
+08042,Chihuahua,Manuel Benavides,0,0.0
+08043,Chihuahua,Matachí,0,0.0
+08044,Chihuahua,Matamoros,0,0.0
+08045,Chihuahua,Meoqui,0,0.0
+08046,Chihuahua,Morelos,0,0.0
+08047,Chihuahua,Moris,0,0.0
+08048,Chihuahua,Namiquipa,0,0.0
+08049,Chihuahua,Nonoava,0,0.0
+08050,Chihuahua,Nuevo Casas Grandes,0,0.0
+08051,Chihuahua,Ocampo,0,0.0
+08052,Chihuahua,Ojinaga,0,0.0
+08053,Chihuahua,Praxedis G. Guerrero,0,0.0
+08054,Chihuahua,Riva Palacio,0,0.0
+08055,Chihuahua,Rosales,0,0.0
+08056,Chihuahua,Rosario,0,0.0
+08057,Chihuahua,San Francisco de Borja,0,0.0
+08058,Chihuahua,San Francisco de Conchos,0,0.0
+08059,Chihuahua,San Francisco del Oro,0,0.0
+08060,Chihuahua,Santa Bárbara,0,0.0
+08061,Chihuahua,Satevó,0,0.0
+08062,Chihuahua,Saucillo,1,0.02237136465324385
+08063,Chihuahua,Temósachic,0,0.0
+08064,Chihuahua,El Tule,0,0.0
+08065,Chihuahua,Urique,0,0.0
+08066,Chihuahua,Uruachi,0,0.0
+08067,Chihuahua,Valle de Zaragoza,0,0.0
+09002,Ciudad de México,Azcapotzalco,0,0.0
+09003,Ciudad de México,Coyoacán,2,0.0447427293064877
+09004,Ciudad de México,Cuajimalpa de Morelos,0,0.0
+09005,Ciudad de México,Gustavo A. Madero,8,0.1789709172259508
+09006,Ciudad de México,Iztacalco,0,0.0
+09007,Ciudad de México,Iztapalapa,3,0.06711409395973154
+09008,Ciudad de México,La Magdalena Contreras,0,0.0
+09009,Ciudad de México,Milpa Alta,0,0.0
+09010,Ciudad de México,Álvaro Obregón,0,0.0
+09011,Ciudad de México,Tláhuac,1,0.02237136465324385
+09012,Ciudad de México,Tlalpan,3,0.06711409395973154
+09013,Ciudad de México,Xochimilco,0,0.0
+09014,Ciudad de México,Benito Juárez,1,0.02237136465324385
+09015,Ciudad de México,Cuauhtémoc,0,0.0
+09016,Ciudad de México,Miguel Hidalgo,0,0.0
+09017,Ciudad de México,Venustiano Carranza,1,0.02237136465324385
+09998,Ciudad de México,No Especificado,0,0.0
+10001,Durango,Canatlán,0,0.0
+10002,Durango,Canelas,0,0.0
+10003,Durango,Coneto de Comonfort,0,0.0
+10004,Durango,Cuencamé,0,0.0
+10005,Durango,Durango,0,0.0
+10006,Durango,General Simón Bolívar,0,0.0
+10007,Durango,Gómez Palacio,0,0.0
+10008,Durango,Guadalupe Victoria,0,0.0
+10009,Durango,Guanaceví,0,0.0
+10010,Durango,Hidalgo,0,0.0
+10011,Durango,Indé,0,0.0
+10012,Durango,Lerdo,0,0.0
+10013,Durango,Mapimí,0,0.0
+10014,Durango,Mezquital,0,0.0
+10015,Durango,Nazas,0,0.0
+10016,Durango,Nombre de Dios,0,0.0
+10017,Durango,Ocampo,0,0.0
+10018,Durango,El Oro,0,0.0
+10019,Durango,Otáez,0,0.0
+10020,Durango,Pánuco de Coronado,0,0.0
+10021,Durango,Peñón Blanco,0,0.0
+10022,Durango,Poanas,0,0.0
+10023,Durango,Pueblo Nuevo,0,0.0
+10024,Durango,Rodeo,0,0.0
+10025,Durango,San Bernardo,0,0.0
+10026,Durango,San Dimas,0,0.0
+10027,Durango,San Juan de Guadalupe,0,0.0
+10028,Durango,San Juan del Río,0,0.0
+10029,Durango,San Luis del Cordero,0,0.0
+10030,Durango,San Pedro del Gallo,0,0.0
+10031,Durango,Santa Clara,0,0.0
+10032,Durango,Santiago Papasquiaro,0,0.0
+10033,Durango,Súchil,0,0.0
+10034,Durango,Tamazula,0,0.0
+10035,Durango,Tepehuanes,0,0.0
+10036,Durango,Tlahualilo,0,0.0
+10037,Durango,Topia,0,0.0
+10038,Durango,Vicente Guerrero,0,0.0
+10039,Durango,Nuevo Ideal,0,0.0
+11001,Guanajuato,Abasolo,0,0.0
+11002,Guanajuato,Acámbaro,0,0.0
+11003,Guanajuato,San Miguel de Allende,3,0.06711409395973154
+11004,Guanajuato,Apaseo el Alto,0,0.0
+11005,Guanajuato,Apaseo el Grande,0,0.0
+11006,Guanajuato,Atarjea,0,0.0
+11007,Guanajuato,Celaya,0,0.0
+11008,Guanajuato,Manuel Doblado,0,0.0
+11009,Guanajuato,Comonfort,0,0.0
+11010,Guanajuato,Coroneo,0,0.0
+11011,Guanajuato,Cortazar,0,0.0
+11012,Guanajuato,Cuerámaro,0,0.0
+11013,Guanajuato,Doctor Mora,0,0.0
+11014,Guanajuato,Dolores Hidalgo Cuna de la Independencia Nacional,0,0.0
+11015,Guanajuato,Guanajuato,0,0.0
+11016,Guanajuato,Huanímaro,0,0.0
+11017,Guanajuato,Irapuato,2,0.0447427293064877
+11018,Guanajuato,Jaral del Progreso,0,0.0
+11019,Guanajuato,Jerécuaro,0,0.0
+11020,Guanajuato,León,3,0.06711409395973154
+11021,Guanajuato,Moroleón,0,0.0
+11022,Guanajuato,Ocampo,0,0.0
+11023,Guanajuato,Pénjamo,0,0.0
+11024,Guanajuato,Pueblo Nuevo,0,0.0
+11025,Guanajuato,Purísima del Rincón,0,0.0
+11026,Guanajuato,Romita,0,0.0
+11027,Guanajuato,Salamanca,0,0.0
+11028,Guanajuato,Salvatierra,0,0.0
+11029,Guanajuato,San Diego de la Unión,0,0.0
+11030,Guanajuato,San Felipe,1,0.02237136465324385
+11031,Guanajuato,San Francisco del Rincón,0,0.0
+11032,Guanajuato,San José Iturbide,0,0.0
+11033,Guanajuato,San Luis de la Paz,0,0.0
+11034,Guanajuato,Santa Catarina,0,0.0
+11035,Guanajuato,Santa Cruz de Juventino Rosas,0,0.0
+11036,Guanajuato,Santiago Maravatío,0,0.0
+11037,Guanajuato,Silao de la Victoria,0,0.0
+11038,Guanajuato,Tarandacuao,0,0.0
+11039,Guanajuato,Tarimoro,0,0.0
+11040,Guanajuato,Tierra Blanca,0,0.0
+11041,Guanajuato,Uriangato,0,0.0
+11042,Guanajuato,Valle de Santiago,0,0.0
+11043,Guanajuato,Victoria,0,0.0
+11044,Guanajuato,Villagrán,0,0.0
+11045,Guanajuato,Xichú,0,0.0
+11046,Guanajuato,Yuriria,1,0.02237136465324385
+12001,Guerrero,Acapulco de Juárez,0,0.0
+12002,Guerrero,Ahuacuotzingo,0,0.0
+12003,Guerrero,Ajuchitlán del Progreso,0,0.0
+12004,Guerrero,Alcozauca de Guerrero,0,0.0
+12005,Guerrero,Alpoyeca,0,0.0
+12006,Guerrero,Apaxtla,0,0.0
+12007,Guerrero,Arcelia,0,0.0
+12008,Guerrero,Atenango del Río,0,0.0
+12009,Guerrero,Atlamajalcingo del Monte,0,0.0
+12010,Guerrero,Atlixtac,0,0.0
+12011,Guerrero,Atoyac de Álvarez,0,0.0
+12012,Guerrero,Ayutla de los Libres,0,0.0
+12013,Guerrero,Azoyú,0,0.0
+12014,Guerrero,Benito Juárez,0,0.0
+12015,Guerrero,Buenavista de Cuéllar,0,0.0
+12016,Guerrero,Coahuayutla de José María Izazaga,0,0.0
+12017,Guerrero,Cocula,0,0.0
+12018,Guerrero,Copala,0,0.0
+12019,Guerrero,Copalillo,0,0.0
+12020,Guerrero,Copanatoyac,0,0.0
+12021,Guerrero,Coyuca de Benítez,0,0.0
+12022,Guerrero,Coyuca de Catalán,0,0.0
+12023,Guerrero,Cuajinicuilapa,0,0.0
+12024,Guerrero,Cualác,0,0.0
+12025,Guerrero,Cuautepec,0,0.0
+12026,Guerrero,Cuetzala del Progreso,0,0.0
+12027,Guerrero,Cutzamala de Pinzón,0,0.0
+12028,Guerrero,Chilapa de Álvarez,0,0.0
+12029,Guerrero,Chilpancingo de los Bravo,0,0.0
+12030,Guerrero,Florencio Villarreal,0,0.0
+12031,Guerrero,General Canuto A. Neri,0,0.0
+12032,Guerrero,General Heliodoro Castillo,0,0.0
+12033,Guerrero,Huamuxtitlán,0,0.0
+12034,Guerrero,Huitzuco de los Figueroa,1,0.02237136465324385
+12035,Guerrero,Iguala de la Independencia,0,0.0
+12036,Guerrero,Igualapa,0,0.0
+12037,Guerrero,Ixcateopan de Cuauhtémoc,0,0.0
+12038,Guerrero,Zihuatanejo de Azueta,0,0.0
+12039,Guerrero,Juan R. Escudero,0,0.0
+12040,Guerrero,Leonardo Bravo,0,0.0
+12041,Guerrero,Malinaltepec,0,0.0
+12042,Guerrero,Mártir de Cuilapan,0,0.0
+12043,Guerrero,Metlatónoc,0,0.0
+12044,Guerrero,Mochitlán,0,0.0
+12045,Guerrero,Olinalá,0,0.0
+12046,Guerrero,Ometepec,0,0.0
+12047,Guerrero,Pedro Ascencio Alquisiras,0,0.0
+12048,Guerrero,Petatlán,0,0.0
+12049,Guerrero,Pilcaya,0,0.0
+12050,Guerrero,Pungarabato,0,0.0
+12051,Guerrero,Quechultenango,0,0.0
+12052,Guerrero,San Luis Acatlán,0,0.0
+12053,Guerrero,San Marcos,0,0.0
+12054,Guerrero,San Miguel Totolapan,0,0.0
+12055,Guerrero,Taxco de Alarcón,0,0.0
+12056,Guerrero,Tecoanapa,0,0.0
+12057,Guerrero,Técpan de Galeana,0,0.0
+12058,Guerrero,Teloloapan,0,0.0
+12059,Guerrero,Tepecoacuilco de Trujano,0,0.0
+12060,Guerrero,Tetipac,0,0.0
+12061,Guerrero,Tixtla de Guerrero,0,0.0
+12062,Guerrero,Tlacoachistlahuaca,0,0.0
+12063,Guerrero,Tlacoapa,0,0.0
+12064,Guerrero,Tlalchapa,0,0.0
+12065,Guerrero,Tlalixtaquilla de Maldonado,0,0.0
+12066,Guerrero,Tlapa de Comonfort,0,0.0
+12067,Guerrero,Tlapehuala,0,0.0
+12068,Guerrero,La Unión de Isidoro Montes de Oca,0,0.0
+12069,Guerrero,Xalpatláhuac,0,0.0
+12070,Guerrero,Xochihuehuetlán,0,0.0
+12071,Guerrero,Xochistlahuaca,0,0.0
+12072,Guerrero,Zapotitlán Tablas,0,0.0
+12073,Guerrero,Zirándaro,0,0.0
+12074,Guerrero,Zitlala,0,0.0
+12075,Guerrero,Eduardo Neri,0,0.0
+12076,Guerrero,Acatepec,0,0.0
+12077,Guerrero,Marquelia,0,0.0
+12078,Guerrero,Cochoapa el Grande,0,0.0
+12079,Guerrero,José Joaquín de Herrera,0,0.0
+12080,Guerrero,Juchitán,0,0.0
+12081,Guerrero,Iliatenco,0,0.0
+12082,Guerrero,Las Vigas,0,0.0
+12083,Guerrero,Ñuu Savi,0,0.0
+12084,Guerrero,Santa Cruz del Rincón,0,0.0
+12085,Guerrero,San Nicolás,0,0.0
+13001,Hidalgo,Acatlán,0,0.0
+13002,Hidalgo,Acaxochitlán,0,0.0
+13003,Hidalgo,Actopan,0,0.0
+13004,Hidalgo,Agua Blanca de Iturbide,0,0.0
+13005,Hidalgo,Ajacuba,0,0.0
+13006,Hidalgo,Alfajayucan,0,0.0
+13007,Hidalgo,Almoloya,0,0.0
+13008,Hidalgo,Apan,0,0.0
+13009,Hidalgo,El Arenal,0,0.0
+13010,Hidalgo,Atitalaquia,0,0.0
+13011,Hidalgo,Atlapexco,0,0.0
+13012,Hidalgo,Atotonilco el Grande,0,0.0
+13013,Hidalgo,Atotonilco de Tula,0,0.0
+13014,Hidalgo,Calnali,0,0.0
+13015,Hidalgo,Cardonal,0,0.0
+13016,Hidalgo,Cuautepec de Hinojosa,0,0.0
+13017,Hidalgo,Chapantongo,0,0.0
+13018,Hidalgo,Chapulhuacán,0,0.0
+13019,Hidalgo,Chilcuautla,0,0.0
+13020,Hidalgo,Eloxochitlán,0,0.0
+13021,Hidalgo,Emiliano Zapata,0,0.0
+13022,Hidalgo,Epazoyucan,0,0.0
+13023,Hidalgo,Francisco I. Madero,0,0.0
+13024,Hidalgo,Huasca de Ocampo,0,0.0
+13025,Hidalgo,Huautla,0,0.0
+13026,Hidalgo,Huazalingo,0,0.0
+13027,Hidalgo,Huehuetla,0,0.0
+13028,Hidalgo,Huejutla de Reyes,0,0.0
+13029,Hidalgo,Huichapan,0,0.0
+13030,Hidalgo,Ixmiquilpan,0,0.0
+13031,Hidalgo,Jacala de Ledezma,0,0.0
+13032,Hidalgo,Jaltocán,0,0.0
+13033,Hidalgo,Juárez Hidalgo,0,0.0
+13034,Hidalgo,Lolotla,0,0.0
+13035,Hidalgo,Metepec,0,0.0
+13036,Hidalgo,San Agustín Metzquititlán,0,0.0
+13037,Hidalgo,Metztitlán,0,0.0
+13038,Hidalgo,Mineral del Chico,0,0.0
+13039,Hidalgo,Mineral del Monte,0,0.0
+13040,Hidalgo,La Misión,0,0.0
+13041,Hidalgo,Mixquiahuala de Juárez,0,0.0
+13042,Hidalgo,Molango de Escamilla,0,0.0
+13043,Hidalgo,Nicolás Flores,0,0.0
+13044,Hidalgo,Nopala de Villagrán,0,0.0
+13045,Hidalgo,Omitlán de Juárez,0,0.0
+13046,Hidalgo,San Felipe Orizatlán,0,0.0
+13047,Hidalgo,Pacula,0,0.0
+13048,Hidalgo,Pachuca de Soto,0,0.0
+13049,Hidalgo,Pisaflores,0,0.0
+13050,Hidalgo,Progreso de Obregón,0,0.0
+13051,Hidalgo,Mineral de la Reforma,0,0.0
+13052,Hidalgo,San Agustín Tlaxiaca,0,0.0
+13053,Hidalgo,San Bartolo Tutotepec,0,0.0
+13054,Hidalgo,San Salvador,0,0.0
+13055,Hidalgo,Santiago de Anaya,0,0.0
+13056,Hidalgo,Santiago Tulantepec de Lugo Guerrero,0,0.0
+13057,Hidalgo,Singuilucan,0,0.0
+13058,Hidalgo,Tasquillo,0,0.0
+13059,Hidalgo,Tecozautla,0,0.0
+13060,Hidalgo,Tenango de Doria,0,0.0
+13061,Hidalgo,Tepeapulco,0,0.0
+13062,Hidalgo,Tepehuacán de Guerrero,0,0.0
+13063,Hidalgo,Tepeji del Río de Ocampo,0,0.0
+13064,Hidalgo,Tepetitlán,0,0.0
+13065,Hidalgo,Tetepango,0,0.0
+13066,Hidalgo,Villa de Tezontepec,0,0.0
+13067,Hidalgo,Tezontepec de Aldama,0,0.0
+13068,Hidalgo,Tianguistengo,0,0.0
+13069,Hidalgo,Tizayuca,8,0.1789709172259508
+13070,Hidalgo,Tlahuelilpan,0,0.0
+13071,Hidalgo,Tlahuiltepa,0,0.0
+13072,Hidalgo,Tlanalapa,0,0.0
+13073,Hidalgo,Tlanchinol,0,0.0
+13074,Hidalgo,Tlaxcoapan,0,0.0
+13075,Hidalgo,Tolcayuca,2,0.0447427293064877
+13076,Hidalgo,Tula de Allende,2,0.0447427293064877
+13077,Hidalgo,Tulancingo de Bravo,0,0.0
+13078,Hidalgo,Xochiatipan,0,0.0
+13079,Hidalgo,Xochicoatlán,0,0.0
+13080,Hidalgo,Yahualica,0,0.0
+13081,Hidalgo,Zacualtipán de Ángeles,0,0.0
+13082,Hidalgo,Zapotlán de Juárez,0,0.0
+13083,Hidalgo,Zempoala,0,0.0
+13084,Hidalgo,Zimapán,0,0.0
+14001,Jalisco,Acatic,0,0.0
+14002,Jalisco,Acatlán de Juárez,3,0.06711409395973154
+14003,Jalisco,Ahualulco de Mercado,0,0.0
+14004,Jalisco,Amacueca,0,0.0
+14005,Jalisco,Amatitán,0,0.0
+14006,Jalisco,Ameca,0,0.0
+14007,Jalisco,San Juanito de Escobedo,0,0.0
+14008,Jalisco,Arandas,1,0.02237136465324385
+14009,Jalisco,El Arenal,0,0.0
+14010,Jalisco,Atemajac de Brizuela,0,0.0
+14011,Jalisco,Atengo,0,0.0
+14012,Jalisco,Atenguillo,0,0.0
+14013,Jalisco,Atotonilco el Alto,1,0.02237136465324385
+14014,Jalisco,Atoyac,0,0.0
+14015,Jalisco,Autlán de Navarro,0,0.0
+14016,Jalisco,Ayotlán,0,0.0
+14017,Jalisco,Ayutla,0,0.0
+14018,Jalisco,La Barca,0,0.0
+14019,Jalisco,Bolaños,0,0.0
+14020,Jalisco,Cabo Corrientes,0,0.0
+14021,Jalisco,Casimiro Castillo,0,0.0
+14022,Jalisco,Cihuatlán,0,0.0
+14023,Jalisco,Zapotlán el Grande,0,0.0
+14024,Jalisco,Cocula,0,0.0
+14025,Jalisco,Colotlán,0,0.0
+14026,Jalisco,Concepción de Buenos Aires,0,0.0
+14027,Jalisco,Cuautitlán de García Barragán,0,0.0
+14028,Jalisco,Cuautla,0,0.0
+14029,Jalisco,Cuquío,0,0.0
+14030,Jalisco,Chapala,1,0.02237136465324385
+14031,Jalisco,Chimaltitán,0,0.0
+14032,Jalisco,Chiquilistlán,0,0.0
+14033,Jalisco,Degollado,0,0.0
+14034,Jalisco,Ejutla,0,0.0
+14035,Jalisco,Encarnación de Díaz,1,0.02237136465324385
+14036,Jalisco,Etzatlán,0,0.0
+14037,Jalisco,El Grullo,0,0.0
+14038,Jalisco,Guachinango,0,0.0
+14039,Jalisco,Guadalajara,13,0.29082774049217003
+14040,Jalisco,Hostotipaquillo,0,0.0
+14041,Jalisco,Huejúcar,0,0.0
+14042,Jalisco,Huejuquilla el Alto,0,0.0
+14043,Jalisco,La Huerta,0,0.0
+14044,Jalisco,Ixtlahuacán de los Membrillos,1,0.02237136465324385
+14045,Jalisco,Ixtlahuacán del Río,0,0.0
+14046,Jalisco,Jalostotitlán,2,0.0447427293064877
+14047,Jalisco,Jamay,0,0.0
+14048,Jalisco,Jesús María,0,0.0
+14049,Jalisco,Jilotlán de los Dolores,0,0.0
+14050,Jalisco,Jocotepec,0,0.0
+14051,Jalisco,Juanacatlán,0,0.0
+14052,Jalisco,Juchitlán,0,0.0
+14053,Jalisco,Lagos de Moreno,8,0.1789709172259508
+14054,Jalisco,El Limón,0,0.0
+14055,Jalisco,Magdalena,0,0.0
+14056,Jalisco,Santa María del Oro,0,0.0
+14057,Jalisco,La Manzanilla de la Paz,0,0.0
+14058,Jalisco,Mascota,0,0.0
+14059,Jalisco,Mazamitla,0,0.0
+14060,Jalisco,Mexticacán,0,0.0
+14061,Jalisco,Mezquitic,0,0.0
+14062,Jalisco,Mixtlán,0,0.0
+14063,Jalisco,Ocotlán,0,0.0
+14064,Jalisco,Ojuelos de Jalisco,2,0.0447427293064877
+14065,Jalisco,Pihuamo,0,0.0
+14066,Jalisco,Poncitlán,0,0.0
+14067,Jalisco,Puerto Vallarta,0,0.0
+14068,Jalisco,Villa Purificación,0,0.0
+14069,Jalisco,Quitupan,0,0.0
+14070,Jalisco,El Salto,14,0.3131991051454139
+14071,Jalisco,San Cristóbal de la Barranca,0,0.0
+14072,Jalisco,San Diego de Alejandría,0,0.0
+14073,Jalisco,San Juan de los Lagos,2,0.0447427293064877
+14074,Jalisco,San Julián,0,0.0
+14075,Jalisco,San Marcos,0,0.0
+14076,Jalisco,San Martín de Bolaños,0,0.0
+14077,Jalisco,San Martín Hidalgo,0,0.0
+14078,Jalisco,San Miguel el Alto,2,0.0447427293064877
+14079,Jalisco,Gómez Farías,0,0.0
+14080,Jalisco,San Sebastián del Oeste,0,0.0
+14081,Jalisco,Santa María de los Ángeles,0,0.0
+14082,Jalisco,Sayula,0,0.0
+14083,Jalisco,Tala,2,0.0447427293064877
+14084,Jalisco,Talpa de Allende,0,0.0
+14085,Jalisco,Tamazula de Gordiano,0,0.0
+14086,Jalisco,Tapalpa,0,0.0
+14087,Jalisco,Tecalitlán,0,0.0
+14088,Jalisco,Tecolotlán,0,0.0
+14089,Jalisco,Techaluta de Montenegro,0,0.0
+14090,Jalisco,Tenamaxtlán,0,0.0
+14091,Jalisco,Teocaltiche,0,0.0
+14092,Jalisco,Teocuitatlán de Corona,1,0.02237136465324385
+14093,Jalisco,Tepatitlán de Morelos,3,0.06711409395973154
+14094,Jalisco,Tequila,1,0.02237136465324385
+14095,Jalisco,Teuchitlán,0,0.0
+14096,Jalisco,Tizapán el Alto,0,0.0
+14097,Jalisco,Tlajomulco de Zúñiga,19,0.4250559284116331
+14098,Jalisco,San Pedro Tlaquepaque,36,0.8053691275167785
+14099,Jalisco,Tolimán,0,0.0
+14100,Jalisco,Tomatlán,0,0.0
+14101,Jalisco,Tonalá,6,0.1342281879194631
+14102,Jalisco,Tonaya,0,0.0
+14103,Jalisco,Tonila,0,0.0
+14104,Jalisco,Totatiche,0,0.0
+14105,Jalisco,Tototlán,1,0.02237136465324385
+14106,Jalisco,Tuxcacuesco,0,0.0
+14107,Jalisco,Tuxcueca,0,0.0
+14108,Jalisco,Tuxpan,0,0.0
+14109,Jalisco,Unión de San Antonio,1,0.02237136465324385
+14110,Jalisco,Unión de Tula,0,0.0
+14111,Jalisco,Valle de Guadalupe,1,0.02237136465324385
+14112,Jalisco,Valle de Juárez,0,0.0
+14113,Jalisco,San Gabriel,0,0.0
+14114,Jalisco,Villa Corona,1,0.02237136465324385
+14115,Jalisco,Villa Guerrero,0,0.0
+14116,Jalisco,Villa Hidalgo,0,0.0
+14117,Jalisco,Cañadas de Obregón,0,0.0
+14118,Jalisco,Yahualica de González Gallo,0,0.0
+14119,Jalisco,Zacoalco de Torres,0,0.0
+14120,Jalisco,Zapopan,3,0.06711409395973154
+14121,Jalisco,Zapotiltic,0,0.0
+14122,Jalisco,Zapotitlán de Vadillo,0,0.0
+14123,Jalisco,Zapotlán del Rey,1,0.02237136465324385
+14124,Jalisco,Zapotlanejo,0,0.0
+14125,Jalisco,San Ignacio Cerro Gordo,0,0.0
+14998,Jalisco,No Especificado,0,0.0
+15001,México,Acambay de Ruíz Castañeda,10,0.22371364653243847
+15002,México,Acolman,25,0.5592841163310962
+15003,México,Aculco,11,0.24608501118568232
+15004,México,Almoloya de Alquisiras,0,0.0
+15005,México,Almoloya de Juárez,12,0.2684563758389262
+15006,México,Almoloya del Río,1,0.02237136465324385
+15007,México,Amanalco,0,0.0
+15008,México,Amatepec,0,0.0
+15009,México,Amecameca,2,0.0447427293064877
+15010,México,Apaxco,4,0.0894854586129754
+15011,México,Atenco,3,0.06711409395973154
+15012,México,Atizapán,1,0.02237136465324385
+15013,México,Atizapán de Zaragoza,50,1.1185682326621924
+15014,México,Atlacomulco,15,0.33557046979865773
+15015,México,Atlautla,2,0.0447427293064877
+15016,México,Axapusco,19,0.4250559284116331
+15017,México,Ayapango,0,0.0
+15018,México,Calimaya,6,0.1342281879194631
+15019,México,Capulhuac,5,0.11185682326621924
+15020,México,Coacalco de Berriozábal,40,0.8948545861297539
+15021,México,Coatepec Harinas,1,0.02237136465324385
+15022,México,Cocotitlán,5,0.11185682326621924
+15023,México,Coyotepec,26,0.5816554809843401
+15024,México,Cuautitlán,25,0.5592841163310962
+15025,México,Chalco,182,4.0715883668903805
+15026,México,Chapa de Mota,0,0.0
+15027,México,Chapultepec,1,0.02237136465324385
+15028,México,Chiautla,0,0.0
+15029,México,Chicoloapan,18,0.40268456375838924
+15030,México,Chiconcuac,2,0.0447427293064877
+15031,México,Chimalhuacán,171,3.825503355704698
+15032,México,Donato Guerra,0,0.0
+15033,México,Ecatepec de Morelos,301,6.733780760626399
+15034,México,Ecatzingo,0,0.0
+15035,México,Huehuetoca,68,1.5212527964205818
+15036,México,Hueypoxtla,14,0.3131991051454139
+15037,México,Huixquilucan,31,0.6935123042505593
+15038,México,Isidro Fabela,0,0.0
+15039,México,Ixtapaluca,96,2.1476510067114094
+15040,México,Ixtapan de la Sal,0,0.0
+15041,México,Ixtapan del Oro,0,0.0
+15042,México,Ixtlahuaca,12,0.2684563758389262
+15043,México,Xalatlaco,5,0.11185682326621924
+15044,México,Jaltenco,3,0.06711409395973154
+15045,México,Jilotepec,73,1.633109619686801
+15046,México,Jilotzingo,3,0.06711409395973154
+15047,México,Jiquipilco,2,0.0447427293064877
+15048,México,Jocotitlán,13,0.29082774049217003
+15049,México,Joquicingo,2,0.0447427293064877
+15050,México,Juchitepec,0,0.0
+15051,México,Lerma,16,0.3579418344519016
+15052,México,Malinalco,1,0.02237136465324385
+15053,México,Melchor Ocampo,7,0.15659955257270694
+15054,México,Metepec,10,0.22371364653243847
+15055,México,Mexicaltzingo,0,0.0
+15056,México,Morelos,1,0.02237136465324385
+15057,México,Naucalpan de Juárez,447,10.0
+15058,México,Nezahualcóyotl,112,2.505592841163311
+15059,México,Nextlalpan,13,0.29082774049217003
+15060,México,Nicolás Romero,29,0.6487695749440716
+15061,México,Nopaltepec,16,0.3579418344519016
+15062,México,Ocoyoacac,5,0.11185682326621924
+15063,México,Ocuilan,5,0.11185682326621924
+15064,México,El Oro,0,0.0
+15065,México,Otumba,8,0.1789709172259508
+15066,México,Otzoloapan,0,0.0
+15067,México,Otzolotepec,6,0.1342281879194631
+15068,México,Ozumba,1,0.02237136465324385
+15069,México,Papalotla,0,0.0
+15070,México,La Paz,64,1.4317673378076063
+15071,México,Polotitlán,49,1.0961968680089484
+15072,México,Rayón,0,0.0
+15073,México,San Antonio la Isla,2,0.0447427293064877
+15074,México,San Felipe del Progreso,0,0.0
+15075,México,San Martín de las Pirámides,8,0.1789709172259508
+15076,México,San Mateo Atenco,2,0.0447427293064877
+15077,México,San Simón de Guerrero,0,0.0
+15078,México,Santo Tomás,0,0.0
+15079,México,Soyaniquilpan de Juárez,40,0.8948545861297539
+15080,México,Sultepec,0,0.0
+15081,México,Tecámac,94,2.102908277404922
+15082,México,Tejupilco,2,0.0447427293064877
+15083,México,Temamatla,0,0.0
+15084,México,Temascalapa,14,0.3131991051454139
+15085,México,Temascalcingo,2,0.0447427293064877
+15086,México,Temascaltepec,1,0.02237136465324385
+15087,México,Temoaya,2,0.0447427293064877
+15088,México,Tenancingo,3,0.06711409395973154
+15089,México,Tenango del Aire,0,0.0
+15090,México,Tenango del Valle,8,0.1789709172259508
+15091,México,Teoloyucan,36,0.8053691275167785
+15092,México,Teotihuacán,18,0.40268456375838924
+15093,México,Tepetlaoxtoc,4,0.0894854586129754
+15094,México,Tepetlixpa,2,0.0447427293064877
+15095,México,Tepotzotlán,90,2.0134228187919465
+15096,México,Tequixquiac,1,0.02237136465324385
+15097,México,Texcaltitlán,0,0.0
+15098,México,Texcalyacac,0,0.0
+15099,México,Texcoco,22,0.49217002237136465
+15100,México,Tezoyuca,6,0.1342281879194631
+15101,México,Tianguistenco,12,0.2684563758389262
+15102,México,Timilpan,1,0.02237136465324385
+15103,México,Tlalmanalco,0,0.0
+15104,México,Tlalnepantla de Baz,316,7.069351230425056
+15105,México,Tlatlaya,0,0.0
+15106,México,Toluca,155,3.4675615212527964
+15107,México,Tonatico,0,0.0
+15108,México,Tultepec,35,0.7829977628635347
+15109,México,Tultitlán,159,3.557046979865772
+15110,México,Valle de Bravo,0,0.0
+15111,México,Villa de Allende,1,0.02237136465324385
+15112,México,Villa del Carbón,1,0.02237136465324385
+15113,México,Villa Guerrero,2,0.0447427293064877
+15114,México,Villa Victoria,1,0.02237136465324385
+15115,México,Xonacatlán,21,0.4697986577181208
+15116,México,Zacazonapan,0,0.0
+15117,México,Zacualpan,0,0.0
+15118,México,Zinacantepec,5,0.11185682326621924
+15119,México,Zumpahuacán,0,0.0
+15120,México,Zumpango,31,0.6935123042505593
+15121,México,Cuautitlán Izcalli,310,6.935123042505593
+15122,México,Valle de Chalco Solidaridad,57,1.2751677852348993
+15123,México,Luvianos,0,0.0
+15124,México,San José del Rincón,1,0.02237136465324385
+15125,México,Tonanitla,1,0.02237136465324385
+16001,Michoacán de Ocampo,Acuitzio,2,0.0447427293064877
+16002,Michoacán de Ocampo,Aguililla,0,0.0
+16003,Michoacán de Ocampo,Álvaro Obregón,7,0.15659955257270694
+16004,Michoacán de Ocampo,Angamacutiro,0,0.0
+16005,Michoacán de Ocampo,Angangueo,0,0.0
+16006,Michoacán de Ocampo,Apatzingán,2,0.0447427293064877
+16007,Michoacán de Ocampo,Aporo,0,0.0
+16008,Michoacán de Ocampo,Aquila,2,0.0447427293064877
+16009,Michoacán de Ocampo,Ario,2,0.0447427293064877
+16010,Michoacán de Ocampo,Arteaga,4,0.0894854586129754
+16011,Michoacán de Ocampo,Briseñas,0,0.0
+16012,Michoacán de Ocampo,Buenavista,5,0.11185682326621924
+16013,Michoacán de Ocampo,Carácuaro,0,0.0
+16014,Michoacán de Ocampo,Coahuayana,0,0.0
+16015,Michoacán de Ocampo,Coalcomán de Vázquez Pallares,0,0.0
+16016,Michoacán de Ocampo,Coeneo,3,0.06711409395973154
+16017,Michoacán de Ocampo,Contepec,1,0.02237136465324385
+16018,Michoacán de Ocampo,Copándaro,9,0.20134228187919462
+16019,Michoacán de Ocampo,Cotija,6,0.1342281879194631
+16020,Michoacán de Ocampo,Cuitzeo,8,0.1789709172259508
+16021,Michoacán de Ocampo,Charapan,0,0.0
+16022,Michoacán de Ocampo,Charo,2,0.0447427293064877
+16023,Michoacán de Ocampo,Chavinda,0,0.0
+16024,Michoacán de Ocampo,Cherán,0,0.0
+16025,Michoacán de Ocampo,Chilchota,6,0.1342281879194631
+16026,Michoacán de Ocampo,Chinicuila,0,0.0
+16027,Michoacán de Ocampo,Chucándiro,1,0.02237136465324385
+16028,Michoacán de Ocampo,Churintzio,3,0.06711409395973154
+16029,Michoacán de Ocampo,Churumuco,0,0.0
+16030,Michoacán de Ocampo,Ecuandureo,13,0.29082774049217003
+16031,Michoacán de Ocampo,Epitacio Huerta,0,0.0
+16032,Michoacán de Ocampo,Erongarícuaro,2,0.0447427293064877
+16033,Michoacán de Ocampo,Gabriel Zamora,4,0.0894854586129754
+16034,Michoacán de Ocampo,Hidalgo,0,0.0
+16035,Michoacán de Ocampo,La Huacana,0,0.0
+16036,Michoacán de Ocampo,Huandacareo,0,0.0
+16037,Michoacán de Ocampo,Huaniqueo,7,0.15659955257270694
+16038,Michoacán de Ocampo,Huetamo,0,0.0
+16039,Michoacán de Ocampo,Huiramba,2,0.0447427293064877
+16040,Michoacán de Ocampo,Indaparapeo,2,0.0447427293064877
+16041,Michoacán de Ocampo,Irimbo,0,0.0
+16042,Michoacán de Ocampo,Ixtlán,0,0.0
+16043,Michoacán de Ocampo,Jacona,4,0.0894854586129754
+16044,Michoacán de Ocampo,Jiménez,0,0.0
+16045,Michoacán de Ocampo,Jiquilpan,1,0.02237136465324385
+16046,Michoacán de Ocampo,Juárez,0,0.0
+16047,Michoacán de Ocampo,Jungapeo,0,0.0
+16048,Michoacán de Ocampo,Lagunillas,6,0.1342281879194631
+16049,Michoacán de Ocampo,Madero,1,0.02237136465324385
+16050,Michoacán de Ocampo,Maravatío,9,0.20134228187919462
+16051,Michoacán de Ocampo,Marcos Castellanos,1,0.02237136465324385
+16052,Michoacán de Ocampo,Lázaro Cárdenas,7,0.15659955257270694
+16053,Michoacán de Ocampo,Morelia,103,2.3042505592841165
+16054,Michoacán de Ocampo,Morelos,0,0.0
+16055,Michoacán de Ocampo,Múgica,1,0.02237136465324385
+16056,Michoacán de Ocampo,Nahuatzen,0,0.0
+16057,Michoacán de Ocampo,Nocupétaro,0,0.0
+16058,Michoacán de Ocampo,Nuevo Parangaricutiro,2,0.0447427293064877
+16059,Michoacán de Ocampo,Nuevo Urecho,1,0.02237136465324385
+16060,Michoacán de Ocampo,Numarán,0,0.0
+16061,Michoacán de Ocampo,Ocampo,0,0.0
+16062,Michoacán de Ocampo,Pajacuarán,0,0.0
+16063,Michoacán de Ocampo,Panindícuaro,7,0.15659955257270694
+16064,Michoacán de Ocampo,Parácuaro,0,0.0
+16065,Michoacán de Ocampo,Paracho,2,0.0447427293064877
+16066,Michoacán de Ocampo,Pátzcuaro,24,0.5369127516778524
+16067,Michoacán de Ocampo,Penjamillo,0,0.0
+16068,Michoacán de Ocampo,Peribán,1,0.02237136465324385
+16069,Michoacán de Ocampo,La Piedad,12,0.2684563758389262
+16070,Michoacán de Ocampo,Purépero,1,0.02237136465324385
+16071,Michoacán de Ocampo,Puruándiro,0,0.0
+16072,Michoacán de Ocampo,Queréndaro,3,0.06711409395973154
+16073,Michoacán de Ocampo,Quiroga,10,0.22371364653243847
+16074,Michoacán de Ocampo,Cojumatlán de Régules,0,0.0
+16075,Michoacán de Ocampo,Los Reyes,1,0.02237136465324385
+16076,Michoacán de Ocampo,Sahuayo,0,0.0
+16077,Michoacán de Ocampo,San Lucas,1,0.02237136465324385
+16078,Michoacán de Ocampo,Santa Ana Maya,2,0.0447427293064877
+16079,Michoacán de Ocampo,Salvador Escalante,20,0.44742729306487694
+16080,Michoacán de Ocampo,Senguio,0,0.0
+16081,Michoacán de Ocampo,Susupuato,0,0.0
+16082,Michoacán de Ocampo,Tacámbaro,3,0.06711409395973154
+16083,Michoacán de Ocampo,Tancítaro,1,0.02237136465324385
+16084,Michoacán de Ocampo,Tangamandapio,8,0.1789709172259508
+16085,Michoacán de Ocampo,Tangancícuaro,2,0.0447427293064877
+16086,Michoacán de Ocampo,Tanhuato,5,0.11185682326621924
+16087,Michoacán de Ocampo,Taretan,2,0.0447427293064877
+16088,Michoacán de Ocampo,Tarímbaro,20,0.44742729306487694
+16089,Michoacán de Ocampo,Tepalcatepec,1,0.02237136465324385
+16090,Michoacán de Ocampo,Tingambato,4,0.0894854586129754
+16091,Michoacán de Ocampo,Tingüindín,11,0.24608501118568232
+16092,Michoacán de Ocampo,Tiquicheo de Nicolás Romero,0,0.0
+16093,Michoacán de Ocampo,Tlalpujahua,0,0.0
+16094,Michoacán de Ocampo,Tlazazalca,2,0.0447427293064877
+16095,Michoacán de Ocampo,Tocumbo,4,0.0894854586129754
+16096,Michoacán de Ocampo,Tumbiscatío,0,0.0
+16097,Michoacán de Ocampo,Turicato,0,0.0
+16098,Michoacán de Ocampo,Tuxpan,0,0.0
+16099,Michoacán de Ocampo,Tuzantla,0,0.0
+16100,Michoacán de Ocampo,Tzintzuntzan,5,0.11185682326621924
+16101,Michoacán de Ocampo,Tzitzio,2,0.0447427293064877
+16102,Michoacán de Ocampo,Uruapan,82,1.8344519015659955
+16103,Michoacán de Ocampo,Venustiano Carranza,5,0.11185682326621924
+16104,Michoacán de Ocampo,Villamar,0,0.0
+16105,Michoacán de Ocampo,Vista Hermosa,4,0.0894854586129754
+16106,Michoacán de Ocampo,Yurécuaro,2,0.0447427293064877
+16107,Michoacán de Ocampo,Zacapu,1,0.02237136465324385
+16108,Michoacán de Ocampo,Zamora,9,0.20134228187919462
+16109,Michoacán de Ocampo,Zináparo,1,0.02237136465324385
+16110,Michoacán de Ocampo,Zinapécuaro,22,0.49217002237136465
+16111,Michoacán de Ocampo,Ziracuaretiro,11,0.24608501118568232
+16112,Michoacán de Ocampo,Zitácuaro,0,0.0
+16113,Michoacán de Ocampo,José Sixto Verduzco,0,0.0
+17001,Morelos,Amacuzac,0,0.0
+17002,Morelos,Atlatlahucan,1,0.02237136465324385
+17003,Morelos,Axochiapan,0,0.0
+17004,Morelos,Ayala,0,0.0
+17005,Morelos,Coatlán del Río,0,0.0
+17006,Morelos,Cuautla,7,0.15659955257270694
+17007,Morelos,Cuernavaca,29,0.6487695749440716
+17008,Morelos,Emiliano Zapata,1,0.02237136465324385
+17009,Morelos,Huitzilac,1,0.02237136465324385
+17010,Morelos,Jantetelco,0,0.0
+17011,Morelos,Jiutepec,11,0.24608501118568232
+17012,Morelos,Jojutla,3,0.06711409395973154
+17013,Morelos,Jonacatepec de Leandro Valle,0,0.0
+17014,Morelos,Mazatepec,0,0.0
+17015,Morelos,Miacatlán,0,0.0
+17016,Morelos,Ocuituco,0,0.0
+17017,Morelos,Puente de Ixtla,1,0.02237136465324385
+17018,Morelos,Temixco,1,0.02237136465324385
+17019,Morelos,Tepalcingo,0,0.0
+17020,Morelos,Tepoztlán,1,0.02237136465324385
+17021,Morelos,Tetecala,0,0.0
+17022,Morelos,Tetela del Volcán,0,0.0
+17023,Morelos,Tlalnepantla,0,0.0
+17024,Morelos,Tlaltizapán de Zapata,1,0.02237136465324385
+17025,Morelos,Tlaquiltenango,2,0.0447427293064877
+17026,Morelos,Tlayacapan,0,0.0
+17027,Morelos,Totolapan,0,0.0
+17028,Morelos,Xochitepec,2,0.0447427293064877
+17029,Morelos,Yautepec,2,0.0447427293064877
+17030,Morelos,Yecapixtla,2,0.0447427293064877
+17031,Morelos,Zacatepec,0,0.0
+17032,Morelos,Zacualpan de Amilpas,0,0.0
+17033,Morelos,Temoac,6,0.1342281879194631
+17034,Morelos,Coatetelco,1,0.02237136465324385
+17035,Morelos,Xoxocotla,1,0.02237136465324385
+17036,Morelos,Hueyapan,0,0.0
+18001,Nayarit,Acaponeta,0,0.0
+18002,Nayarit,Ahuacatlán,0,0.0
+18003,Nayarit,Amatlán de Cañas,0,0.0
+18004,Nayarit,Compostela,0,0.0
+18005,Nayarit,Huajicori,0,0.0
+18006,Nayarit,Ixtlán del Río,0,0.0
+18007,Nayarit,Jala,0,0.0
+18008,Nayarit,Xalisco,0,0.0
+18009,Nayarit,Del Nayar,0,0.0
+18010,Nayarit,Rosamorada,0,0.0
+18011,Nayarit,Ruíz,0,0.0
+18012,Nayarit,San Blas,0,0.0
+18013,Nayarit,San Pedro Lagunillas,0,0.0
+18014,Nayarit,Santa María del Oro,0,0.0
+18015,Nayarit,Santiago Ixcuintla,0,0.0
+18016,Nayarit,Tecuala,0,0.0
+18017,Nayarit,Tepic,0,0.0
+18018,Nayarit,Tuxpan,0,0.0
+18019,Nayarit,La Yesca,0,0.0
+18020,Nayarit,Bahía de Banderas,0,0.0
+19001,Nuevo León,Abasolo,0,0.0
+19002,Nuevo León,Agualeguas,0,0.0
+19003,Nuevo León,Los Aldamas,0,0.0
+19004,Nuevo León,Allende,2,0.0447427293064877
+19005,Nuevo León,Anáhuac,0,0.0
+19006,Nuevo León,Apodaca,27,0.6040268456375839
+19007,Nuevo León,Aramberri,0,0.0
+19008,Nuevo León,Bustamante,0,0.0
+19009,Nuevo León,Cadereyta Jiménez,3,0.06711409395973154
+19010,Nuevo León,El Carmen,1,0.02237136465324385
+19011,Nuevo León,Cerralvo,0,0.0
+19012,Nuevo León,Ciénega de Flores,2,0.0447427293064877
+19013,Nuevo León,China,0,0.0
+19014,Nuevo León,Doctor Arroyo,2,0.0447427293064877
+19015,Nuevo León,Doctor Coss,1,0.02237136465324385
+19016,Nuevo León,Doctor González,0,0.0
+19017,Nuevo León,Galeana,2,0.0447427293064877
+19018,Nuevo León,García,19,0.4250559284116331
+19019,Nuevo León,San Pedro Garza García,0,0.0
+19020,Nuevo León,General Bravo,0,0.0
+19021,Nuevo León,General Escobedo,22,0.49217002237136465
+19022,Nuevo León,General Terán,0,0.0
+19023,Nuevo León,General Treviño,0,0.0
+19024,Nuevo León,General Zaragoza,0,0.0
+19025,Nuevo León,General Zuazua,1,0.02237136465324385
+19026,Nuevo León,Guadalupe,14,0.3131991051454139
+19027,Nuevo León,Los Herreras,0,0.0
+19028,Nuevo León,Higueras,0,0.0
+19029,Nuevo León,Hualahuises,1,0.02237136465324385
+19030,Nuevo León,Iturbide,0,0.0
+19031,Nuevo León,Juárez,15,0.33557046979865773
+19032,Nuevo León,Lampazos de Naranjo,0,0.0
+19033,Nuevo León,Linares,0,0.0
+19034,Nuevo León,Marín,0,0.0
+19035,Nuevo León,Melchor Ocampo,0,0.0
+19036,Nuevo León,Mier y Noriega,0,0.0
+19037,Nuevo León,Mina,2,0.0447427293064877
+19038,Nuevo León,Montemorelos,2,0.0447427293064877
+19039,Nuevo León,Monterrey,24,0.5369127516778524
+19040,Nuevo León,Parás,0,0.0
+19041,Nuevo León,Pesquería,3,0.06711409395973154
+19042,Nuevo León,Los Ramones,0,0.0
+19043,Nuevo León,Rayones,0,0.0
+19044,Nuevo León,Sabinas Hidalgo,0,0.0
+19045,Nuevo León,Salinas Victoria,8,0.1789709172259508
+19046,Nuevo León,San Nicolás de los Garza,6,0.1342281879194631
+19047,Nuevo León,Hidalgo,0,0.0
+19048,Nuevo León,Santa Catarina,12,0.2684563758389262
+19049,Nuevo León,Santiago,0,0.0
+19050,Nuevo León,Vallecillo,0,0.0
+19051,Nuevo León,Villaldama,0,0.0
+20001,Oaxaca,Abejones,0,0.0
+20002,Oaxaca,Acatlán de Pérez Figueroa,0,0.0
+20003,Oaxaca,Asunción Cacalotepec,0,0.0
+20004,Oaxaca,Asunción Cuyotepeji,0,0.0
+20005,Oaxaca,Asunción Ixtaltepec,1,0.02237136465324385
+20006,Oaxaca,Asunción Nochixtlán,1,0.02237136465324385
+20007,Oaxaca,Asunción Ocotlán,0,0.0
+20008,Oaxaca,Asunción Tlacolulita,0,0.0
+20009,Oaxaca,Ayotzintepec,1,0.02237136465324385
+20010,Oaxaca,El Barrio de la Soledad,1,0.02237136465324385
+20011,Oaxaca,Calihualá,0,0.0
+20012,Oaxaca,Candelaria Loxicha,0,0.0
+20013,Oaxaca,Ciénega de Zimatlán,0,0.0
+20014,Oaxaca,Ciudad Ixtepec,1,0.02237136465324385
+20015,Oaxaca,Coatecas Altas,0,0.0
+20016,Oaxaca,Coicoyán de las Flores,0,0.0
+20017,Oaxaca,La Compañía,0,0.0
+20018,Oaxaca,Concepción Buenavista,0,0.0
+20019,Oaxaca,Concepción Pápalo,0,0.0
+20020,Oaxaca,Constancia del Rosario,0,0.0
+20021,Oaxaca,Cosolapa,0,0.0
+20022,Oaxaca,Cosoltepec,0,0.0
+20023,Oaxaca,Cuilápam de Guerrero,0,0.0
+20024,Oaxaca,Cuyamecalco Villa de Zaragoza,0,0.0
+20025,Oaxaca,Chahuites,0,0.0
+20026,Oaxaca,Chalcatongo de Hidalgo,0,0.0
+20027,Oaxaca,Chiquihuitlán de Benito Juárez,0,0.0
+20028,Oaxaca,Heroica Ciudad de Ejutla de Crespo,0,0.0
+20029,Oaxaca,Eloxochitlán de Flores Magón,0,0.0
+20030,Oaxaca,El Espinal,0,0.0
+20031,Oaxaca,Tamazulápam del Espíritu Santo,0,0.0
+20032,Oaxaca,Fresnillo de Trujano,0,0.0
+20033,Oaxaca,Guadalupe Etla,0,0.0
+20034,Oaxaca,Guadalupe de Ramírez,0,0.0
+20035,Oaxaca,Guelatao de Juárez,0,0.0
+20036,Oaxaca,Guevea de Humboldt,0,0.0
+20037,Oaxaca,Mesones Hidalgo,0,0.0
+20038,Oaxaca,Villa Hidalgo,0,0.0
+20039,Oaxaca,Heroica Ciudad de Huajuapan de León,2,0.0447427293064877
+20040,Oaxaca,Huautepec,0,0.0
+20041,Oaxaca,Huautla de Jiménez,1,0.02237136465324385
+20042,Oaxaca,Ixtlán de Juárez,0,0.0
+20043,Oaxaca,Heroica Ciudad de Juchitán de Zaragoza,2,0.0447427293064877
+20044,Oaxaca,Loma Bonita,0,0.0
+20045,Oaxaca,Magdalena Apasco,0,0.0
+20046,Oaxaca,Magdalena Jaltepec,0,0.0
+20047,Oaxaca,Santa Magdalena Jicotlán,0,0.0
+20048,Oaxaca,Magdalena Mixtepec,0,0.0
+20049,Oaxaca,Magdalena Ocotlán,0,0.0
+20050,Oaxaca,Magdalena Peñasco,0,0.0
+20051,Oaxaca,Magdalena Teitipac,0,0.0
+20052,Oaxaca,Magdalena Tequisistlán,0,0.0
+20053,Oaxaca,Magdalena Tlacotepec,0,0.0
+20054,Oaxaca,Magdalena Zahuatlán,0,0.0
+20055,Oaxaca,Mariscala de Juárez,0,0.0
+20056,Oaxaca,Mártires de Tacubaya,0,0.0
+20057,Oaxaca,Matías Romero Avendaño,1,0.02237136465324385
+20058,Oaxaca,Mazatlán Villa de Flores,0,0.0
+20059,Oaxaca,Miahuatlán de Porfirio Díaz,0,0.0
+20060,Oaxaca,Mixistlán de la Reforma,0,0.0
+20061,Oaxaca,Monjas,0,0.0
+20062,Oaxaca,Natividad,0,0.0
+20063,Oaxaca,Nazareno Etla,0,0.0
+20064,Oaxaca,Nejapa de Madero,0,0.0
+20065,Oaxaca,Ixpantepec Nieves,0,0.0
+20066,Oaxaca,Santiago Niltepec,0,0.0
+20067,Oaxaca,Oaxaca de Juárez,29,0.6487695749440716
+20068,Oaxaca,Ocotlán de Morelos,0,0.0
+20069,Oaxaca,La Pe,0,0.0
+20070,Oaxaca,Pinotepa de Don Luis,0,0.0
+20071,Oaxaca,Pluma Hidalgo,0,0.0
+20072,Oaxaca,San José del Progreso,0,0.0
+20073,Oaxaca,Putla Villa de Guerrero,0,0.0
+20074,Oaxaca,Santa Catarina Quioquitani,0,0.0
+20075,Oaxaca,Reforma de Pineda,0,0.0
+20076,Oaxaca,La Reforma,0,0.0
+20077,Oaxaca,Reyes Etla,0,0.0
+20078,Oaxaca,Rojas de Cuauhtémoc,0,0.0
+20079,Oaxaca,Salina Cruz,0,0.0
+20080,Oaxaca,San Agustín Amatengo,0,0.0
+20081,Oaxaca,San Agustín Atenango,0,0.0
+20082,Oaxaca,San Agustín Chayuco,0,0.0
+20083,Oaxaca,San Agustín de las Juntas,2,0.0447427293064877
+20084,Oaxaca,San Agustín Etla,0,0.0
+20085,Oaxaca,San Agustín Loxicha,0,0.0
+20086,Oaxaca,San Agustín Tlacotepec,0,0.0
+20087,Oaxaca,San Agustín Yatareni,0,0.0
+20088,Oaxaca,San Andrés Cabecera Nueva,0,0.0
+20089,Oaxaca,San Andrés Dinicuiti,0,0.0
+20090,Oaxaca,San Andrés Huaxpaltepec,0,0.0
+20091,Oaxaca,San Andrés Huayápam,0,0.0
+20092,Oaxaca,San Andrés Ixtlahuaca,0,0.0
+20093,Oaxaca,San Andrés Lagunas,0,0.0
+20094,Oaxaca,San Andrés Nuxiño,0,0.0
+20095,Oaxaca,San Andrés Paxtlán,0,0.0
+20096,Oaxaca,San Andrés Sinaxtla,0,0.0
+20097,Oaxaca,San Andrés Solaga,0,0.0
+20098,Oaxaca,San Andrés Teotilálpam,0,0.0
+20099,Oaxaca,San Andrés Tepetlapa,0,0.0
+20100,Oaxaca,San Andrés Yaá,0,0.0
+20101,Oaxaca,San Andrés Zabache,0,0.0
+20102,Oaxaca,San Andrés Zautla,0,0.0
+20103,Oaxaca,San Antonino Castillo Velasco,0,0.0
+20104,Oaxaca,San Antonino el Alto,0,0.0
+20105,Oaxaca,San Antonino Monte Verde,0,0.0
+20106,Oaxaca,San Antonio Acutla,0,0.0
+20107,Oaxaca,San Antonio de la Cal,0,0.0
+20108,Oaxaca,San Antonio Huitepec,0,0.0
+20109,Oaxaca,San Antonio Nanahuatípam,0,0.0
+20110,Oaxaca,San Antonio Sinicahua,0,0.0
+20111,Oaxaca,San Antonio Tepetlapa,0,0.0
+20112,Oaxaca,San Baltazar Chichicápam,0,0.0
+20113,Oaxaca,San Baltazar Loxicha,0,0.0
+20114,Oaxaca,San Baltazar Yatzachi el Bajo,0,0.0
+20115,Oaxaca,San Bartolo Coyotepec,0,0.0
+20116,Oaxaca,San Bartolomé Ayautla,0,0.0
+20117,Oaxaca,San Bartolomé Loxicha,0,0.0
+20118,Oaxaca,San Bartolomé Quialana,0,0.0
+20119,Oaxaca,San Bartolomé Yucuañe,0,0.0
+20120,Oaxaca,San Bartolomé Zoogocho,0,0.0
+20121,Oaxaca,San Bartolo Soyaltepec,0,0.0
+20122,Oaxaca,San Bartolo Yautepec,0,0.0
+20123,Oaxaca,San Bernardo Mixtepec,0,0.0
+20124,Oaxaca,San Blas Atempa,0,0.0
+20125,Oaxaca,San Carlos Yautepec,0,0.0
+20126,Oaxaca,San Cristóbal Amatlán,0,0.0
+20127,Oaxaca,San Cristóbal Amoltepec,0,0.0
+20128,Oaxaca,San Cristóbal Lachirioag,0,0.0
+20129,Oaxaca,San Cristóbal Suchixtlahuaca,2,0.0447427293064877
+20130,Oaxaca,San Dionisio del Mar,0,0.0
+20131,Oaxaca,San Dionisio Ocotepec,1,0.02237136465324385
+20132,Oaxaca,San Dionisio Ocotlán,0,0.0
+20133,Oaxaca,San Esteban Atatlahuca,0,0.0
+20134,Oaxaca,San Felipe Jalapa de Díaz,1,0.02237136465324385
+20135,Oaxaca,San Felipe Tejalápam,0,0.0
+20136,Oaxaca,San Felipe Usila,0,0.0
+20137,Oaxaca,San Francisco Cahuacuá,0,0.0
+20138,Oaxaca,San Francisco Cajonos,0,0.0
+20139,Oaxaca,San Francisco Chapulapa,0,0.0
+20140,Oaxaca,San Francisco Chindúa,0,0.0
+20141,Oaxaca,San Francisco del Mar,0,0.0
+20142,Oaxaca,San Francisco Huehuetlán,0,0.0
+20143,Oaxaca,San Francisco Ixhuatán,0,0.0
+20144,Oaxaca,San Francisco Jaltepetongo,0,0.0
+20145,Oaxaca,San Francisco Lachigoló,0,0.0
+20146,Oaxaca,San Francisco Logueche,0,0.0
+20147,Oaxaca,San Francisco Nuxaño,0,0.0
+20148,Oaxaca,San Francisco Ozolotepec,0,0.0
+20149,Oaxaca,San Francisco Sola,0,0.0
+20150,Oaxaca,San Francisco Telixtlahuaca,0,0.0
+20151,Oaxaca,San Francisco Teopan,0,0.0
+20152,Oaxaca,San Francisco Tlapancingo,0,0.0
+20153,Oaxaca,San Gabriel Mixtepec,0,0.0
+20154,Oaxaca,San Ildefonso Amatlán,0,0.0
+20155,Oaxaca,San Ildefonso Sola,0,0.0
+20156,Oaxaca,San Ildefonso Villa Alta,0,0.0
+20157,Oaxaca,San Jacinto Amilpas,0,0.0
+20158,Oaxaca,San Jacinto Tlacotepec,0,0.0
+20159,Oaxaca,San Jerónimo Coatlán,0,0.0
+20160,Oaxaca,San Jerónimo Silacayoapilla,0,0.0
+20161,Oaxaca,San Jerónimo Sosola,0,0.0
+20162,Oaxaca,San Jerónimo Taviche,0,0.0
+20163,Oaxaca,San Jerónimo Tecóatl,0,0.0
+20164,Oaxaca,San Jorge Nuchita,0,0.0
+20165,Oaxaca,San José Ayuquila,0,0.0
+20166,Oaxaca,San José Chiltepec,5,0.11185682326621924
+20167,Oaxaca,San José del Peñasco,0,0.0
+20168,Oaxaca,San José Estancia Grande,0,0.0
+20169,Oaxaca,San José Independencia,0,0.0
+20170,Oaxaca,San José Lachiguiri,0,0.0
+20171,Oaxaca,San José Tenango,0,0.0
+20172,Oaxaca,San Juan Achiutla,0,0.0
+20173,Oaxaca,San Juan Atepec,0,0.0
+20174,Oaxaca,Ánimas Trujano,0,0.0
+20175,Oaxaca,San Juan Bautista Atatlahuca,0,0.0
+20176,Oaxaca,San Juan Bautista Coixtlahuaca,0,0.0
+20177,Oaxaca,San Juan Bautista Cuicatlán,0,0.0
+20178,Oaxaca,San Juan Bautista Guelache,0,0.0
+20179,Oaxaca,San Juan Bautista Jayacatlán,0,0.0
+20180,Oaxaca,San Juan Bautista Lo de Soto,0,0.0
+20181,Oaxaca,San Juan Bautista Suchitepec,0,0.0
+20182,Oaxaca,San Juan Bautista Tlacoatzintepec,0,0.0
+20183,Oaxaca,San Juan Bautista Tlachichilco,0,0.0
+20184,Oaxaca,San Juan Bautista Tuxtepec,15,0.33557046979865773
+20185,Oaxaca,San Juan Cacahuatepec,2,0.0447427293064877
+20186,Oaxaca,San Juan Cieneguilla,0,0.0
+20187,Oaxaca,San Juan Coatzóspam,0,0.0
+20188,Oaxaca,San Juan Colorado,0,0.0
+20189,Oaxaca,San Juan Comaltepec,0,0.0
+20190,Oaxaca,San Juan Cotzocón,0,0.0
+20191,Oaxaca,San Juan Chicomezúchil,0,0.0
+20192,Oaxaca,San Juan Chilateca,0,0.0
+20193,Oaxaca,San Juan del Estado,0,0.0
+20194,Oaxaca,San Juan del Río,0,0.0
+20195,Oaxaca,San Juan Diuxi,0,0.0
+20196,Oaxaca,San Juan Evangelista Analco,0,0.0
+20197,Oaxaca,San Juan Guelavía,0,0.0
+20198,Oaxaca,San Juan Guichicovi,0,0.0
+20199,Oaxaca,San Juan Ihualtepec,0,0.0
+20200,Oaxaca,San Juan Juquila Mixes,0,0.0
+20201,Oaxaca,San Juan Juquila Vijanos,0,0.0
+20202,Oaxaca,San Juan Lachao,0,0.0
+20203,Oaxaca,San Juan Lachigalla,0,0.0
+20204,Oaxaca,San Juan Lajarcia,0,0.0
+20205,Oaxaca,San Juan Lalana,0,0.0
+20206,Oaxaca,San Juan de los Cués,0,0.0
+20207,Oaxaca,San Juan Mazatlán,1,0.02237136465324385
+20208,Oaxaca,San Juan Mixtepec Distrito 08,0,0.0
+20209,Oaxaca,San Juan Mixtepec Distrito 26,0,0.0
+20210,Oaxaca,San Juan Ñumí,0,0.0
+20211,Oaxaca,San Juan Ozolotepec,0,0.0
+20212,Oaxaca,San Juan Petlapa,0,0.0
+20213,Oaxaca,San Juan Quiahije,0,0.0
+20214,Oaxaca,San Juan Quiotepec,0,0.0
+20215,Oaxaca,San Juan Sayultepec,0,0.0
+20216,Oaxaca,San Juan Tabaá,0,0.0
+20217,Oaxaca,San Juan Tamazola,0,0.0
+20218,Oaxaca,San Juan Teita,0,0.0
+20219,Oaxaca,San Juan Teitipac,0,0.0
+20220,Oaxaca,San Juan Tepeuxila,0,0.0
+20221,Oaxaca,San Juan Teposcolula,0,0.0
+20222,Oaxaca,San Juan Yaeé,0,0.0
+20223,Oaxaca,San Juan Yatzona,0,0.0
+20224,Oaxaca,San Juan Yucuita,0,0.0
+20225,Oaxaca,San Lorenzo,0,0.0
+20226,Oaxaca,San Lorenzo Albarradas,0,0.0
+20227,Oaxaca,San Lorenzo Cacaotepec,0,0.0
+20228,Oaxaca,San Lorenzo Cuaunecuiltitla,0,0.0
+20229,Oaxaca,San Lorenzo Texmelúcan,0,0.0
+20230,Oaxaca,San Lorenzo Victoria,0,0.0
+20231,Oaxaca,San Lucas Camotlán,0,0.0
+20232,Oaxaca,San Lucas Ojitlán,2,0.0447427293064877
+20233,Oaxaca,San Lucas Quiaviní,0,0.0
+20234,Oaxaca,San Lucas Zoquiápam,0,0.0
+20235,Oaxaca,San Luis Amatlán,0,0.0
+20236,Oaxaca,San Marcial Ozolotepec,0,0.0
+20237,Oaxaca,San Marcos Arteaga,0,0.0
+20238,Oaxaca,San Martín de los Cansecos,0,0.0
+20239,Oaxaca,San Martín Huamelúlpam,0,0.0
+20240,Oaxaca,San Martín Itunyoso,0,0.0
+20241,Oaxaca,San Martín Lachilá,0,0.0
+20242,Oaxaca,San Martín Peras,0,0.0
+20243,Oaxaca,San Martín Tilcajete,0,0.0
+20244,Oaxaca,San Martín Toxpalan,0,0.0
+20245,Oaxaca,San Martín Zacatepec,0,0.0
+20246,Oaxaca,San Mateo Cajonos,0,0.0
+20247,Oaxaca,Capulálpam de Méndez,0,0.0
+20248,Oaxaca,San Mateo del Mar,0,0.0
+20249,Oaxaca,San Mateo Yoloxochitlán,0,0.0
+20250,Oaxaca,San Mateo Etlatongo,0,0.0
+20251,Oaxaca,San Mateo Nejápam,0,0.0
+20252,Oaxaca,San Mateo Peñasco,0,0.0
+20253,Oaxaca,San Mateo Piñas,0,0.0
+20254,Oaxaca,San Mateo Río Hondo,0,0.0
+20255,Oaxaca,San Mateo Sindihui,0,0.0
+20256,Oaxaca,San Mateo Tlapiltepec,0,0.0
+20257,Oaxaca,San Melchor Betaza,0,0.0
+20258,Oaxaca,San Miguel Achiutla,0,0.0
+20259,Oaxaca,San Miguel Ahuehuetitlán,0,0.0
+20260,Oaxaca,San Miguel Aloápam,0,0.0
+20261,Oaxaca,San Miguel Amatitlán,0,0.0
+20262,Oaxaca,San Miguel Amatlán,0,0.0
+20263,Oaxaca,San Miguel Coatlán,0,0.0
+20264,Oaxaca,San Miguel Chicahua,0,0.0
+20265,Oaxaca,San Miguel Chimalapa,0,0.0
+20266,Oaxaca,San Miguel del Puerto,0,0.0
+20267,Oaxaca,San Miguel del Río,0,0.0
+20268,Oaxaca,San Miguel Ejutla,0,0.0
+20269,Oaxaca,San Miguel el Grande,0,0.0
+20270,Oaxaca,San Miguel Huautla,0,0.0
+20271,Oaxaca,San Miguel Mixtepec,0,0.0
+20272,Oaxaca,San Miguel Panixtlahuaca,0,0.0
+20273,Oaxaca,San Miguel Peras,0,0.0
+20274,Oaxaca,San Miguel Piedras,0,0.0
+20275,Oaxaca,San Miguel Quetzaltepec,0,0.0
+20276,Oaxaca,San Miguel Santa Flor,0,0.0
+20277,Oaxaca,Villa Sola de Vega,0,0.0
+20278,Oaxaca,San Miguel Soyaltepec,1,0.02237136465324385
+20279,Oaxaca,San Miguel Suchixtepec,0,0.0
+20280,Oaxaca,Villa Talea de Castro,0,0.0
+20281,Oaxaca,San Miguel Tecomatlán,0,0.0
+20282,Oaxaca,San Miguel Tenango,0,0.0
+20283,Oaxaca,San Miguel Tequixtepec,0,0.0
+20284,Oaxaca,San Miguel Tilquiápam,0,0.0
+20285,Oaxaca,San Miguel Tlacamama,0,0.0
+20286,Oaxaca,San Miguel Tlacotepec,0,0.0
+20287,Oaxaca,San Miguel Tulancingo,0,0.0
+20288,Oaxaca,San Miguel Yotao,0,0.0
+20289,Oaxaca,San Nicolás,0,0.0
+20290,Oaxaca,San Nicolás Hidalgo,0,0.0
+20291,Oaxaca,San Pablo Coatlán,0,0.0
+20292,Oaxaca,San Pablo Cuatro Venados,0,0.0
+20293,Oaxaca,San Pablo Etla,0,0.0
+20294,Oaxaca,San Pablo Huitzo,1,0.02237136465324385
+20295,Oaxaca,San Pablo Huixtepec,0,0.0
+20296,Oaxaca,San Pablo Macuiltianguis,0,0.0
+20297,Oaxaca,San Pablo Tijaltepec,0,0.0
+20298,Oaxaca,San Pablo Villa de Mitla,1,0.02237136465324385
+20299,Oaxaca,San Pablo Yaganiza,0,0.0
+20300,Oaxaca,San Pedro Amuzgos,0,0.0
+20301,Oaxaca,San Pedro Apóstol,0,0.0
+20302,Oaxaca,San Pedro Atoyac,0,0.0
+20303,Oaxaca,San Pedro Cajonos,0,0.0
+20304,Oaxaca,San Pedro Coxcaltepec Cántaros,0,0.0
+20305,Oaxaca,San Pedro Comitancillo,0,0.0
+20306,Oaxaca,San Pedro el Alto,0,0.0
+20307,Oaxaca,San Pedro Huamelula,2,0.0447427293064877
+20308,Oaxaca,San Pedro Huilotepec,0,0.0
+20309,Oaxaca,San Pedro Ixcatlán,0,0.0
+20310,Oaxaca,San Pedro Ixtlahuaca,0,0.0
+20311,Oaxaca,San Pedro Jaltepetongo,0,0.0
+20312,Oaxaca,San Pedro Jicayán,0,0.0
+20313,Oaxaca,San Pedro Jocotipac,0,0.0
+20314,Oaxaca,San Pedro Juchatengo,0,0.0
+20315,Oaxaca,San Pedro Mártir,0,0.0
+20316,Oaxaca,San Pedro Mártir Quiechapa,0,0.0
+20317,Oaxaca,San Pedro Mártir Yucuxaco,0,0.0
+20318,Oaxaca,San Pedro Mixtepec Distrito 22,0,0.0
+20319,Oaxaca,San Pedro Mixtepec Distrito 26,0,0.0
+20320,Oaxaca,San Pedro Molinos,0,0.0
+20321,Oaxaca,San Pedro Nopala,0,0.0
+20322,Oaxaca,San Pedro Ocopetatillo,0,0.0
+20323,Oaxaca,San Pedro Ocotepec,0,0.0
+20324,Oaxaca,San Pedro Pochutla,0,0.0
+20325,Oaxaca,San Pedro Quiatoni,0,0.0
+20326,Oaxaca,San Pedro Sochiápam,0,0.0
+20327,Oaxaca,San Pedro Tapanatepec,1,0.02237136465324385
+20328,Oaxaca,San Pedro Taviche,0,0.0
+20329,Oaxaca,San Pedro Teozacoalco,0,0.0
+20330,Oaxaca,San Pedro Teutila,0,0.0
+20331,Oaxaca,San Pedro Tidaá,0,0.0
+20332,Oaxaca,San Pedro Topiltepec,0,0.0
+20333,Oaxaca,San Pedro Totolápam,0,0.0
+20334,Oaxaca,Villa de Tututepec,7,0.15659955257270694
+20335,Oaxaca,San Pedro Yaneri,0,0.0
+20336,Oaxaca,San Pedro Yólox,0,0.0
+20337,Oaxaca,San Pedro y San Pablo Ayutla,0,0.0
+20338,Oaxaca,Villa de Etla,0,0.0
+20339,Oaxaca,San Pedro y San Pablo Teposcolula,1,0.02237136465324385
+20340,Oaxaca,San Pedro y San Pablo Tequixtepec,0,0.0
+20341,Oaxaca,San Pedro Yucunama,0,0.0
+20342,Oaxaca,San Raymundo Jalpan,0,0.0
+20343,Oaxaca,San Sebastián Abasolo,0,0.0
+20344,Oaxaca,San Sebastián Coatlán,0,0.0
+20345,Oaxaca,San Sebastián Ixcapa,0,0.0
+20346,Oaxaca,San Sebastián Nicananduta,0,0.0
+20347,Oaxaca,San Sebastián Río Hondo,0,0.0
+20348,Oaxaca,San Sebastián Tecomaxtlahuaca,0,0.0
+20349,Oaxaca,San Sebastián Teitipac,0,0.0
+20350,Oaxaca,San Sebastián Tutla,0,0.0
+20351,Oaxaca,San Simón Almolongas,0,0.0
+20352,Oaxaca,San Simón Zahuatlán,0,0.0
+20353,Oaxaca,Santa Ana,0,0.0
+20354,Oaxaca,Santa Ana Ateixtlahuaca,0,0.0
+20355,Oaxaca,Santa Ana Cuauhtémoc,0,0.0
+20356,Oaxaca,Santa Ana del Valle,0,0.0
+20357,Oaxaca,Santa Ana Tavela,0,0.0
+20358,Oaxaca,Santa Ana Tlapacoyan,0,0.0
+20359,Oaxaca,Santa Ana Yareni,0,0.0
+20360,Oaxaca,Santa Ana Zegache,0,0.0
+20361,Oaxaca,Santa Catalina Quierí,0,0.0
+20362,Oaxaca,Santa Catarina Cuixtla,0,0.0
+20363,Oaxaca,Santa Catarina Ixtepeji,1,0.02237136465324385
+20364,Oaxaca,Santa Catarina Juquila,0,0.0
+20365,Oaxaca,Santa Catarina Lachatao,0,0.0
+20366,Oaxaca,Santa Catarina Loxicha,0,0.0
+20367,Oaxaca,Santa Catarina Mechoacán,0,0.0
+20368,Oaxaca,Santa Catarina Minas,0,0.0
+20369,Oaxaca,Santa Catarina Quiané,0,0.0
+20370,Oaxaca,Santa Catarina Tayata,0,0.0
+20371,Oaxaca,Santa Catarina Ticuá,0,0.0
+20372,Oaxaca,Santa Catarina Yosonotú,0,0.0
+20373,Oaxaca,Santa Catarina Zapoquila,0,0.0
+20374,Oaxaca,Santa Cruz Acatepec,0,0.0
+20375,Oaxaca,Santa Cruz Amilpas,0,0.0
+20376,Oaxaca,Santa Cruz de Bravo,0,0.0
+20377,Oaxaca,Santa Cruz Itundujia,0,0.0
+20378,Oaxaca,Santa Cruz Mixtepec,0,0.0
+20379,Oaxaca,Santa Cruz Nundaco,0,0.0
+20380,Oaxaca,Santa Cruz Papalutla,0,0.0
+20381,Oaxaca,Santa Cruz Tacache de Mina,0,0.0
+20382,Oaxaca,Santa Cruz Tacahua,0,0.0
+20383,Oaxaca,Santa Cruz Tayata,0,0.0
+20384,Oaxaca,Santa Cruz Xitla,0,0.0
+20385,Oaxaca,Santa Cruz Xoxocotlán,1,0.02237136465324385
+20386,Oaxaca,Santa Cruz Zenzontepec,0,0.0
+20387,Oaxaca,Santa Gertrudis,0,0.0
+20388,Oaxaca,Santa Inés del Monte,0,0.0
+20389,Oaxaca,Santa Inés Yatzeche,0,0.0
+20390,Oaxaca,Santa Lucía del Camino,0,0.0
+20391,Oaxaca,Santa Lucía Miahuatlán,0,0.0
+20392,Oaxaca,Santa Lucía Monteverde,0,0.0
+20393,Oaxaca,Santa Lucía Ocotlán,0,0.0
+20394,Oaxaca,Santa María Alotepec,0,0.0
+20395,Oaxaca,Santa María Apazco,0,0.0
+20396,Oaxaca,Santa María la Asunción,0,0.0
+20397,Oaxaca,Heroica Ciudad de Tlaxiaco,0,0.0
+20398,Oaxaca,Ayoquezco de Aldama,0,0.0
+20399,Oaxaca,Santa María Atzompa,2,0.0447427293064877
+20400,Oaxaca,Santa María Camotlán,0,0.0
+20401,Oaxaca,Santa María Colotepec,1,0.02237136465324385
+20402,Oaxaca,Santa María Cortijo,0,0.0
+20403,Oaxaca,Santa María Coyotepec,0,0.0
+20404,Oaxaca,Santa María Chachoápam,0,0.0
+20405,Oaxaca,Villa de Chilapa de Díaz,0,0.0
+20406,Oaxaca,Santa María Chilchotla,0,0.0
+20407,Oaxaca,Santa María Chimalapa,0,0.0
+20408,Oaxaca,Santa María del Rosario,0,0.0
+20409,Oaxaca,Santa María del Tule,0,0.0
+20410,Oaxaca,Santa María Ecatepec,0,0.0
+20411,Oaxaca,Santa María Guelacé,0,0.0
+20412,Oaxaca,Santa María Guienagati,0,0.0
+20413,Oaxaca,Santa María Huatulco,0,0.0
+20414,Oaxaca,Santa María Huazolotitlán,0,0.0
+20415,Oaxaca,Santa María Ipalapa,0,0.0
+20416,Oaxaca,Santa María Ixcatlán,0,0.0
+20417,Oaxaca,Santa María Jacatepec,0,0.0
+20418,Oaxaca,Santa María Jalapa del Marqués,0,0.0
+20419,Oaxaca,Santa María Jaltianguis,0,0.0
+20420,Oaxaca,Santa María Lachixío,0,0.0
+20421,Oaxaca,Santa María Mixtequilla,0,0.0
+20422,Oaxaca,Santa María Nativitas,1,0.02237136465324385
+20423,Oaxaca,Santa María Nduayaco,0,0.0
+20424,Oaxaca,Santa María Ozolotepec,0,0.0
+20425,Oaxaca,Santa María Pápalo,0,0.0
+20426,Oaxaca,Santa María Peñoles,0,0.0
+20427,Oaxaca,Santa María Petapa,1,0.02237136465324385
+20428,Oaxaca,Santa María Quiegolani,0,0.0
+20429,Oaxaca,Santa María Sola,0,0.0
+20430,Oaxaca,Santa María Tataltepec,0,0.0
+20431,Oaxaca,Santa María Tecomavaca,0,0.0
+20432,Oaxaca,Santa María Temaxcalapa,0,0.0
+20433,Oaxaca,Santa María Temaxcaltepec,0,0.0
+20434,Oaxaca,Santa María Teopoxco,0,0.0
+20435,Oaxaca,Santa María Tepantlali,0,0.0
+20436,Oaxaca,Santa María Texcatitlán,0,0.0
+20437,Oaxaca,Santa María Tlahuitoltepec,0,0.0
+20438,Oaxaca,Santa María Tlalixtac,0,0.0
+20439,Oaxaca,Santa María Tonameca,0,0.0
+20440,Oaxaca,Santa María Totolapilla,0,0.0
+20441,Oaxaca,Santa María Xadani,0,0.0
+20442,Oaxaca,Santa María Yalina,0,0.0
+20443,Oaxaca,Santa María Yavesía,0,0.0
+20444,Oaxaca,Santa María Yolotepec,0,0.0
+20445,Oaxaca,Santa María Yosoyúa,0,0.0
+20446,Oaxaca,Santa María Yucuhiti,0,0.0
+20447,Oaxaca,Santa María Zacatepec,0,0.0
+20448,Oaxaca,Santa María Zaniza,0,0.0
+20449,Oaxaca,Santa María Zoquitlán,0,0.0
+20450,Oaxaca,Santiago Amoltepec,0,0.0
+20451,Oaxaca,Santiago Apoala,0,0.0
+20452,Oaxaca,Santiago Apóstol,0,0.0
+20453,Oaxaca,Santiago Astata,1,0.02237136465324385
+20454,Oaxaca,Santiago Atitlán,0,0.0
+20455,Oaxaca,Santiago Ayuquililla,0,0.0
+20456,Oaxaca,Santiago Cacaloxtepec,0,0.0
+20457,Oaxaca,Santiago Camotlán,0,0.0
+20458,Oaxaca,Santiago Comaltepec,0,0.0
+20459,Oaxaca,Santiago Chazumba,0,0.0
+20460,Oaxaca,Santiago Choápam,0,0.0
+20461,Oaxaca,Santiago del Río,0,0.0
+20462,Oaxaca,Santiago Huajolotitlán,0,0.0
+20463,Oaxaca,Santiago Huauclilla,0,0.0
+20464,Oaxaca,Santiago Ihuitlán Plumas,0,0.0
+20465,Oaxaca,Santiago Ixcuintepec,0,0.0
+20466,Oaxaca,Santiago Ixtayutla,0,0.0
+20467,Oaxaca,Santiago Jamiltepec,0,0.0
+20468,Oaxaca,Santiago Jocotepec,0,0.0
+20469,Oaxaca,Santiago Juxtlahuaca,0,0.0
+20470,Oaxaca,Santiago Lachiguiri,0,0.0
+20471,Oaxaca,Santiago Lalopa,0,0.0
+20472,Oaxaca,Santiago Laollaga,0,0.0
+20473,Oaxaca,Santiago Laxopa,0,0.0
+20474,Oaxaca,Santiago Llano Grande,0,0.0
+20475,Oaxaca,Santiago Matatlán,0,0.0
+20476,Oaxaca,Santiago Miltepec,0,0.0
+20477,Oaxaca,Santiago Minas,0,0.0
+20478,Oaxaca,Santiago Nacaltepec,0,0.0
+20479,Oaxaca,Santiago Nejapilla,0,0.0
+20480,Oaxaca,Santiago Nundiche,0,0.0
+20481,Oaxaca,Santiago Nuyoó,0,0.0
+20482,Oaxaca,Santiago Pinotepa Nacional,1,0.02237136465324385
+20483,Oaxaca,Santiago Suchilquitongo,1,0.02237136465324385
+20484,Oaxaca,Santiago Tamazola,0,0.0
+20485,Oaxaca,Santiago Tapextla,0,0.0
+20486,Oaxaca,Villa Tejúpam de la Unión,0,0.0
+20487,Oaxaca,Santiago Tenango,0,0.0
+20488,Oaxaca,Santiago Tepetlapa,0,0.0
+20489,Oaxaca,Santiago Tetepec,0,0.0
+20490,Oaxaca,Santiago Texcalcingo,0,0.0
+20491,Oaxaca,Santiago Textitlán,0,0.0
+20492,Oaxaca,Santiago Tilantongo,0,0.0
+20493,Oaxaca,Santiago Tillo,0,0.0
+20494,Oaxaca,Santiago Tlazoyaltepec,0,0.0
+20495,Oaxaca,Santiago Xanica,0,0.0
+20496,Oaxaca,Santiago Xiacuí,0,0.0
+20497,Oaxaca,Santiago Yaitepec,0,0.0
+20498,Oaxaca,Santiago Yaveo,0,0.0
+20499,Oaxaca,Santiago Yolomécatl,0,0.0
+20500,Oaxaca,Santiago Yosondúa,0,0.0
+20501,Oaxaca,Santiago Yucuyachi,0,0.0
+20502,Oaxaca,Santiago Zacatepec,0,0.0
+20503,Oaxaca,Santiago Zoochila,0,0.0
+20504,Oaxaca,Nuevo Zoquiápam,0,0.0
+20505,Oaxaca,Santo Domingo Ingenio,0,0.0
+20506,Oaxaca,Santo Domingo Albarradas,0,0.0
+20507,Oaxaca,Santo Domingo Armenta,0,0.0
+20508,Oaxaca,Santo Domingo Chihuitán,0,0.0
+20509,Oaxaca,Santo Domingo de Morelos,0,0.0
+20510,Oaxaca,Santo Domingo Ixcatlán,0,0.0
+20511,Oaxaca,Santo Domingo Nuxaá,0,0.0
+20512,Oaxaca,Santo Domingo Ozolotepec,0,0.0
+20513,Oaxaca,Santo Domingo Petapa,0,0.0
+20514,Oaxaca,Santo Domingo Roayaga,0,0.0
+20515,Oaxaca,Santo Domingo Tehuantepec,0,0.0
+20516,Oaxaca,Santo Domingo Teojomulco,0,0.0
+20517,Oaxaca,Santo Domingo Tepuxtepec,0,0.0
+20518,Oaxaca,Santo Domingo Tlatayápam,0,0.0
+20519,Oaxaca,Santo Domingo Tomaltepec,0,0.0
+20520,Oaxaca,Santo Domingo Tonalá,0,0.0
+20521,Oaxaca,Santo Domingo Tonaltepec,0,0.0
+20522,Oaxaca,Santo Domingo Xagacía,0,0.0
+20523,Oaxaca,Santo Domingo Yanhuitlán,0,0.0
+20524,Oaxaca,Santo Domingo Yodohino,0,0.0
+20525,Oaxaca,Santo Domingo Zanatepec,1,0.02237136465324385
+20526,Oaxaca,Santos Reyes Nopala,0,0.0
+20527,Oaxaca,Santos Reyes Pápalo,0,0.0
+20528,Oaxaca,Santos Reyes Tepejillo,0,0.0
+20529,Oaxaca,Santos Reyes Yucuná,0,0.0
+20530,Oaxaca,Santo Tomás Jalieza,0,0.0
+20531,Oaxaca,Santo Tomás Mazaltepec,0,0.0
+20532,Oaxaca,Santo Tomás Ocotepec,0,0.0
+20533,Oaxaca,Santo Tomás Tamazulapan,0,0.0
+20534,Oaxaca,San Vicente Coatlán,0,0.0
+20535,Oaxaca,San Vicente Lachixío,0,0.0
+20536,Oaxaca,San Vicente Nuñú,0,0.0
+20537,Oaxaca,Silacayoápam,0,0.0
+20538,Oaxaca,Sitio de Xitlapehua,0,0.0
+20539,Oaxaca,Soledad Etla,0,0.0
+20540,Oaxaca,Villa de Tamazulápam del Progreso,0,0.0
+20541,Oaxaca,Tanetze de Zaragoza,0,0.0
+20542,Oaxaca,Taniche,0,0.0
+20543,Oaxaca,Tataltepec de Valdés,0,0.0
+20544,Oaxaca,Teococuilco de Marcos Pérez,0,0.0
+20545,Oaxaca,Teotitlán de Flores Magón,1,0.02237136465324385
+20546,Oaxaca,Teotitlán del Valle,0,0.0
+20547,Oaxaca,Teotongo,0,0.0
+20548,Oaxaca,Tepelmeme Villa de Morelos,6,0.1342281879194631
+20549,Oaxaca,"Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca",0,0.0
+20550,Oaxaca,San Jerónimo Tlacochahuaya,0,0.0
+20551,Oaxaca,Tlacolula de Matamoros,2,0.0447427293064877
+20552,Oaxaca,Tlacotepec Plumas,0,0.0
+20553,Oaxaca,Tlalixtac de Cabrera,0,0.0
+20554,Oaxaca,Totontepec Villa de Morelos,0,0.0
+20555,Oaxaca,Trinidad Zaachila,0,0.0
+20556,Oaxaca,La Trinidad Vista Hermosa,0,0.0
+20557,Oaxaca,Unión Hidalgo,0,0.0
+20558,Oaxaca,Valerio Trujano,0,0.0
+20559,Oaxaca,San Juan Bautista Valle Nacional,1,0.02237136465324385
+20560,Oaxaca,Villa Díaz Ordaz,0,0.0
+20561,Oaxaca,Yaxe,0,0.0
+20562,Oaxaca,Magdalena Yodocono de Porfirio Díaz,0,0.0
+20563,Oaxaca,Yogana,0,0.0
+20564,Oaxaca,Yutanduchi de Guerrero,0,0.0
+20565,Oaxaca,Villa de Zaachila,0,0.0
+20566,Oaxaca,San Mateo Yucutindoo,0,0.0
+20567,Oaxaca,Zapotitlán Lagunas,0,0.0
+20568,Oaxaca,Zapotitlán Palmas,0,0.0
+20569,Oaxaca,Santa Inés de Zaragoza,0,0.0
+20570,Oaxaca,Zimatlán de Álvarez,2,0.0447427293064877
+20999,Oaxaca,Otros Municipios,0,0.0
+21001,Puebla,Acajete,17,0.38031319910514544
+21002,Puebla,Acateno,0,0.0
+21003,Puebla,Acatlán,2,0.0447427293064877
+21004,Puebla,Acatzingo,43,0.9619686800894854
+21005,Puebla,Acteopan,0,0.0
+21006,Puebla,Ahuacatlán,0,0.0
+21007,Puebla,Ahuatlán,0,0.0
+21008,Puebla,Ahuazotepec,1,0.02237136465324385
+21009,Puebla,Ahuehuetitla,1,0.02237136465324385
+21010,Puebla,Ajalpan,2,0.0447427293064877
+21011,Puebla,Albino Zertuche,0,0.0
+21012,Puebla,Aljojuca,4,0.0894854586129754
+21013,Puebla,Altepexi,1,0.02237136465324385
+21014,Puebla,Amixtlán,0,0.0
+21015,Puebla,Amozoc,167,3.7360178970917226
+21016,Puebla,Aquixtla,0,0.0
+21017,Puebla,Atempan,2,0.0447427293064877
+21018,Puebla,Atexcal,0,0.0
+21019,Puebla,Atlixco,13,0.29082774049217003
+21020,Puebla,Atoyatempan,0,0.0
+21021,Puebla,Atzala,1,0.02237136465324385
+21022,Puebla,Atzitzihuacán,0,0.0
+21023,Puebla,Atzitzintla,4,0.0894854586129754
+21024,Puebla,Axutla,0,0.0
+21025,Puebla,Ayotoxco de Guerrero,0,0.0
+21026,Puebla,Calpan,0,0.0
+21027,Puebla,Caltepec,1,0.02237136465324385
+21028,Puebla,Camocuautla,0,0.0
+21029,Puebla,Caxhuacan,0,0.0
+21030,Puebla,Coatepec,0,0.0
+21031,Puebla,Coatzingo,0,0.0
+21032,Puebla,Cohetzala,0,0.0
+21033,Puebla,Cohuecan,0,0.0
+21034,Puebla,Coronango,87,1.9463087248322148
+21035,Puebla,Coxcatlán,4,0.0894854586129754
+21036,Puebla,Coyomeapan,0,0.0
+21037,Puebla,Coyotepec,0,0.0
+21038,Puebla,Cuapiaxtla de Madero,5,0.11185682326621924
+21039,Puebla,Cuautempan,0,0.0
+21040,Puebla,Cuautinchán,0,0.0
+21041,Puebla,Cuautlancingo,77,1.7225950782997763
+21042,Puebla,Cuayuca de Andrade,0,0.0
+21043,Puebla,Cuetzalan del Progreso,0,0.0
+21044,Puebla,Cuyoaco,8,0.1789709172259508
+21045,Puebla,Chalchicomula de Sesma,53,1.1856823266219239
+21046,Puebla,Chapulco,0,0.0
+21047,Puebla,Chiautla,0,0.0
+21048,Puebla,Chiautzingo,1,0.02237136465324385
+21049,Puebla,Chiconcuautla,0,0.0
+21050,Puebla,Chichiquila,1,0.02237136465324385
+21051,Puebla,Chietla,1,0.02237136465324385
+21052,Puebla,Chigmecatitlán,0,0.0
+21053,Puebla,Chignahuapan,10,0.22371364653243847
+21054,Puebla,Chignautla,0,0.0
+21055,Puebla,Chila,0,0.0
+21056,Puebla,Chila de la Sal,0,0.0
+21057,Puebla,Honey,0,0.0
+21058,Puebla,Chilchotla,0,0.0
+21059,Puebla,Chinantla,0,0.0
+21060,Puebla,Domingo Arenas,0,0.0
+21061,Puebla,Eloxochitlán,1,0.02237136465324385
+21062,Puebla,Epatlán,0,0.0
+21063,Puebla,Esperanza,109,2.4384787472035794
+21064,Puebla,Francisco Z. Mena,0,0.0
+21065,Puebla,General Felipe Ángeles,6,0.1342281879194631
+21066,Puebla,Guadalupe,0,0.0
+21067,Puebla,Guadalupe Victoria,0,0.0
+21068,Puebla,Hermenegildo Galeana,0,0.0
+21069,Puebla,Huaquechula,0,0.0
+21070,Puebla,Huatlatlauca,0,0.0
+21071,Puebla,Huauchinango,12,0.2684563758389262
+21072,Puebla,Huehuetla,0,0.0
+21073,Puebla,Huehuetlán el Chico,0,0.0
+21074,Puebla,Huejotzingo,98,2.192393736017897
+21075,Puebla,Hueyapan,0,0.0
+21076,Puebla,Hueytamalco,1,0.02237136465324385
+21077,Puebla,Hueytlalpan,0,0.0
+21078,Puebla,Huitzilan de Serdán,0,0.0
+21079,Puebla,Huitziltepec,0,0.0
+21080,Puebla,Atlequizayan,0,0.0
+21081,Puebla,Ixcamilpa de Guerrero,0,0.0
+21082,Puebla,Ixcaquixtla,0,0.0
+21083,Puebla,Ixtacamaxtitlán,0,0.0
+21084,Puebla,Ixtepec,0,0.0
+21085,Puebla,Izúcar de Matamoros,3,0.06711409395973154
+21086,Puebla,Jalpan,0,0.0
+21087,Puebla,Jolalpan,0,0.0
+21088,Puebla,Jonotla,0,0.0
+21089,Puebla,Jopala,0,0.0
+21090,Puebla,Juan C. Bonilla,2,0.0447427293064877
+21091,Puebla,Juan Galindo,0,0.0
+21092,Puebla,Juan N. Méndez,0,0.0
+21093,Puebla,Lafragua,0,0.0
+21094,Puebla,Libres,17,0.38031319910514544
+21095,Puebla,La Magdalena Tlatlauquitepec,0,0.0
+21096,Puebla,Mazapiltepec de Juárez,9,0.20134228187919462
+21097,Puebla,Mixtla,0,0.0
+21098,Puebla,Molcaxac,0,0.0
+21099,Puebla,Cañada Morelos,15,0.33557046979865773
+21100,Puebla,Naupan,0,0.0
+21101,Puebla,Nauzontla,1,0.02237136465324385
+21102,Puebla,Nealtican,0,0.0
+21103,Puebla,Nicolás Bravo,2,0.0447427293064877
+21104,Puebla,Nopalucan,1,0.02237136465324385
+21105,Puebla,Ocotepec,0,0.0
+21106,Puebla,Ocoyucan,4,0.0894854586129754
+21107,Puebla,Olintla,0,0.0
+21108,Puebla,Oriental,6,0.1342281879194631
+21109,Puebla,Pahuatlán,0,0.0
+21110,Puebla,Palmar de Bravo,50,1.1185682326621924
+21111,Puebla,Pantepec,0,0.0
+21112,Puebla,Petlalcingo,1,0.02237136465324385
+21113,Puebla,Piaxtla,0,0.0
+21114,Puebla,Puebla,286,6.39821029082774
+21115,Puebla,Quecholac,22,0.49217002237136465
+21116,Puebla,Quimixtlán,1,0.02237136465324385
+21117,Puebla,Rafael Lara Grajales,1,0.02237136465324385
+21118,Puebla,Los Reyes de Juárez,3,0.06711409395973154
+21119,Puebla,San Andrés Cholula,10,0.22371364653243847
+21120,Puebla,San Antonio Cañada,1,0.02237136465324385
+21121,Puebla,San Diego la Mesa Tochimiltzingo,0,0.0
+21122,Puebla,San Felipe Teotlalcingo,0,0.0
+21123,Puebla,San Felipe Tepatlán,0,0.0
+21124,Puebla,San Gabriel Chilac,3,0.06711409395973154
+21125,Puebla,San Gregorio Atzompa,0,0.0
+21126,Puebla,San Jerónimo Tecuanipan,0,0.0
+21127,Puebla,San Jerónimo Xayacatlán,0,0.0
+21128,Puebla,San José Chiapa,3,0.06711409395973154
+21129,Puebla,San José Miahuatlán,19,0.4250559284116331
+21130,Puebla,San Juan Atenco,7,0.15659955257270694
+21131,Puebla,San Juan Atzompa,0,0.0
+21132,Puebla,San Martín Texmelucan,337,7.539149888143177
+21133,Puebla,San Martín Totoltepec,0,0.0
+21134,Puebla,San Matías Tlalancaleca,12,0.2684563758389262
+21135,Puebla,San Miguel Ixitlán,0,0.0
+21136,Puebla,San Miguel Xoxtla,81,1.8120805369127517
+21137,Puebla,San Nicolás Buenos Aires,0,0.0
+21138,Puebla,San Nicolás de los Ranchos,0,0.0
+21139,Puebla,San Pablo Anicano,0,0.0
+21140,Puebla,San Pedro Cholula,9,0.20134228187919462
+21141,Puebla,San Pedro Yeloixtlahuaca,0,0.0
+21142,Puebla,San Salvador el Seco,16,0.3579418344519016
+21143,Puebla,San Salvador el Verde,19,0.4250559284116331
+21144,Puebla,San Salvador Huixcolotla,6,0.1342281879194631
+21145,Puebla,San Sebastián Tlacotepec,0,0.0
+21146,Puebla,Santa Catarina Tlaltempan,0,0.0
+21147,Puebla,Santa Inés Ahuatempan,0,0.0
+21148,Puebla,Santa Isabel Cholula,0,0.0
+21149,Puebla,Santiago Miahuatlán,2,0.0447427293064877
+21150,Puebla,Huehuetlán el Grande,0,0.0
+21151,Puebla,Santo Tomás Hueyotlipan,0,0.0
+21152,Puebla,Soltepec,2,0.0447427293064877
+21153,Puebla,Tecali de Herrera,0,0.0
+21154,Puebla,Tecamachalco,23,0.5145413870246085
+21155,Puebla,Tecomatlán,0,0.0
+21156,Puebla,Tehuacán,81,1.8120805369127517
+21157,Puebla,Tehuitzingo,0,0.0
+21158,Puebla,Tenampulco,0,0.0
+21159,Puebla,Teopantlán,0,0.0
+21160,Puebla,Teotlalco,0,0.0
+21161,Puebla,Tepanco de López,3,0.06711409395973154
+21162,Puebla,Tepango de Rodríguez,0,0.0
+21163,Puebla,Tepatlaxco de Hidalgo,1,0.02237136465324385
+21164,Puebla,Tepeaca,15,0.33557046979865773
+21165,Puebla,Tepemaxalco,0,0.0
+21166,Puebla,Tepeojuma,1,0.02237136465324385
+21167,Puebla,Tepetzintla,0,0.0
+21168,Puebla,Tepexco,2,0.0447427293064877
+21169,Puebla,Tepexi de Rodríguez,0,0.0
+21170,Puebla,Tepeyahualco,22,0.49217002237136465
+21171,Puebla,Tepeyahualco de Cuauhtémoc,0,0.0
+21172,Puebla,Tetela de Ocampo,0,0.0
+21173,Puebla,Teteles de Avila Castillo,0,0.0
+21174,Puebla,Teziutlán,2,0.0447427293064877
+21175,Puebla,Tianguismanalco,0,0.0
+21176,Puebla,Tilapa,1,0.02237136465324385
+21177,Puebla,Tlacotepec de Benito Juárez,1,0.02237136465324385
+21178,Puebla,Tlacuilotepec,0,0.0
+21179,Puebla,Tlachichuca,1,0.02237136465324385
+21180,Puebla,Tlahuapan,91,2.0357941834451903
+21181,Puebla,Tlaltenango,6,0.1342281879194631
+21182,Puebla,Tlanepantla,2,0.0447427293064877
+21183,Puebla,Tlaola,0,0.0
+21184,Puebla,Tlapacoya,0,0.0
+21185,Puebla,Tlapanalá,0,0.0
+21186,Puebla,Tlatlauquitepec,0,0.0
+21187,Puebla,Tlaxco,0,0.0
+21188,Puebla,Tochimilco,1,0.02237136465324385
+21189,Puebla,Tochtepec,1,0.02237136465324385
+21190,Puebla,Totoltepec de Guerrero,0,0.0
+21191,Puebla,Tulcingo,0,0.0
+21192,Puebla,Tuzamapan de Galeana,0,0.0
+21193,Puebla,Tzicatlacoyan,0,0.0
+21194,Puebla,Venustiano Carranza,1,0.02237136465324385
+21195,Puebla,Vicente Guerrero,0,0.0
+21196,Puebla,Xayacatlán de Bravo,0,0.0
+21197,Puebla,Xicotepec,0,0.0
+21198,Puebla,Xicotlán,0,0.0
+21199,Puebla,Xiutetelco,0,0.0
+21200,Puebla,Xochiapulco,0,0.0
+21201,Puebla,Xochiltepec,0,0.0
+21202,Puebla,Xochitlán de Vicente Suárez,2,0.0447427293064877
+21203,Puebla,Xochitlán Todos Santos,0,0.0
+21204,Puebla,Yaonáhuac,0,0.0
+21205,Puebla,Yehualtepec,0,0.0
+21206,Puebla,Zacapala,0,0.0
+21207,Puebla,Zacapoaxtla,0,0.0
+21208,Puebla,Zacatlán,1,0.02237136465324385
+21209,Puebla,Zapotitlán,3,0.06711409395973154
+21210,Puebla,Zapotitlán de Méndez,0,0.0
+21211,Puebla,Zaragoza,1,0.02237136465324385
+21212,Puebla,Zautla,0,0.0
+21213,Puebla,Zihuateutla,0,0.0
+21214,Puebla,Zinacatepec,1,0.02237136465324385
+21215,Puebla,Zongozotla,0,0.0
+21216,Puebla,Zoquiapan,0,0.0
+21217,Puebla,Zoquitlán,0,0.0
+22001,Querétaro,Amealco de Bonfil,0,0.0
+22002,Querétaro,Pinal de Amoles,0,0.0
+22003,Querétaro,Arroyo Seco,0,0.0
+22004,Querétaro,Cadereyta de Montes,0,0.0
+22005,Querétaro,Colón,0,0.0
+22006,Querétaro,Corregidora,0,0.0
+22007,Querétaro,Ezequiel Montes,0,0.0
+22008,Querétaro,Huimilpan,0,0.0
+22009,Querétaro,Jalpan de Serra,0,0.0
+22010,Querétaro,Landa de Matamoros,0,0.0
+22011,Querétaro,El Marqués,0,0.0
+22012,Querétaro,Pedro Escobedo,0,0.0
+22013,Querétaro,Peñamiller,0,0.0
+22014,Querétaro,Querétaro,0,0.0
+22015,Querétaro,San Joaquín,0,0.0
+22016,Querétaro,San Juan del Río,0,0.0
+22017,Querétaro,Tequisquiapan,0,0.0
+22018,Querétaro,Tolimán,0,0.0
+22998,Querétaro,No Especificado,0,0.0
+23001,Quintana Roo,Cozumel,1,0.02237136465324385
+23002,Quintana Roo,Felipe Carrillo Puerto,0,0.0
+23003,Quintana Roo,Isla Mujeres,0,0.0
+23004,Quintana Roo,Othón P. Blanco,1,0.02237136465324385
+23005,Quintana Roo,Benito Juárez,5,0.11185682326621924
+23006,Quintana Roo,José María Morelos,0,0.0
+23007,Quintana Roo,Lázaro Cárdenas,0,0.0
+23008,Quintana Roo,Solidaridad,2,0.0447427293064877
+23009,Quintana Roo,Tulum,0,0.0
+23010,Quintana Roo,Bacalar,0,0.0
+23011,Quintana Roo,Puerto Morelos,0,0.0
+24001,San Luis Potosí,Ahualulco,1,0.02237136465324385
+24002,San Luis Potosí,Alaquines,0,0.0
+24003,San Luis Potosí,Aquismón,0,0.0
+24004,San Luis Potosí,Armadillo de los Infante,0,0.0
+24005,San Luis Potosí,Cárdenas,0,0.0
+24006,San Luis Potosí,Catorce,1,0.02237136465324385
+24007,San Luis Potosí,Cedral,0,0.0
+24008,San Luis Potosí,Cerritos,1,0.02237136465324385
+24009,San Luis Potosí,Cerro de San Pedro,4,0.0894854586129754
+24010,San Luis Potosí,Ciudad del Maíz,1,0.02237136465324385
+24011,San Luis Potosí,Ciudad Fernández,0,0.0
+24012,San Luis Potosí,Tancanhuitz,0,0.0
+24013,San Luis Potosí,Ciudad Valles,1,0.02237136465324385
+24014,San Luis Potosí,Coxcatlán,1,0.02237136465324385
+24015,San Luis Potosí,Charcas,0,0.0
+24016,San Luis Potosí,Ebano,0,0.0
+24017,San Luis Potosí,Guadalcázar,8,0.1789709172259508
+24018,San Luis Potosí,Huehuetlán,0,0.0
+24019,San Luis Potosí,Lagunillas,0,0.0
+24020,San Luis Potosí,Matehuala,9,0.20134228187919462
+24021,San Luis Potosí,Mexquitic de Carmona,4,0.0894854586129754
+24022,San Luis Potosí,Moctezuma,0,0.0
+24023,San Luis Potosí,Rayón,0,0.0
+24024,San Luis Potosí,Rioverde,0,0.0
+24025,San Luis Potosí,Salinas,3,0.06711409395973154
+24026,San Luis Potosí,San Antonio,0,0.0
+24027,San Luis Potosí,San Ciro de Acosta,0,0.0
+24028,San Luis Potosí,San Luis Potosí,287,6.4205816554809845
+24029,San Luis Potosí,San Martín Chalchicuautla,0,0.0
+24030,San Luis Potosí,San Nicolás Tolentino,2,0.0447427293064877
+24031,San Luis Potosí,Santa Catarina,1,0.02237136465324385
+24032,San Luis Potosí,Santa María del Río,6,0.1342281879194631
+24033,San Luis Potosí,Santo Domingo,0,0.0
+24034,San Luis Potosí,San Vicente Tancuayalab,0,0.0
+24035,San Luis Potosí,Soledad de Graciano Sánchez,75,1.6778523489932886
+24036,San Luis Potosí,Tamasopo,0,0.0
+24037,San Luis Potosí,Tamazunchale,0,0.0
+24038,San Luis Potosí,Tampacán,0,0.0
+24039,San Luis Potosí,Tampamolón Corona,0,0.0
+24040,San Luis Potosí,Tamuín,1,0.02237136465324385
+24041,San Luis Potosí,Tanlajás,0,0.0
+24042,San Luis Potosí,Tanquián de Escobedo,0,0.0
+24043,San Luis Potosí,Tierra Nueva,1,0.02237136465324385
+24044,San Luis Potosí,Vanegas,1,0.02237136465324385
+24045,San Luis Potosí,Venado,1,0.02237136465324385
+24046,San Luis Potosí,Villa de Arriaga,11,0.24608501118568232
+24047,San Luis Potosí,Villa de Guadalupe,1,0.02237136465324385
+24048,San Luis Potosí,Villa de la Paz,0,0.0
+24049,San Luis Potosí,Villa de Ramos,1,0.02237136465324385
+24050,San Luis Potosí,Villa de Reyes,3,0.06711409395973154
+24051,San Luis Potosí,Villa Hidalgo,6,0.1342281879194631
+24052,San Luis Potosí,Villa Juárez,0,0.0
+24053,San Luis Potosí,Axtla de Terrazas,0,0.0
+24054,San Luis Potosí,Xilitla,0,0.0
+24055,San Luis Potosí,Zaragoza,1,0.02237136465324385
+24056,San Luis Potosí,Villa de Arista,1,0.02237136465324385
+24057,San Luis Potosí,Matlapa,0,0.0
+24058,San Luis Potosí,El Naranjo,0,0.0
+24059,San Luis Potosí,Villa de Pozos,4,0.0894854586129754
+25001,Sinaloa,Ahome,0,0.0
+25002,Sinaloa,Angostura,0,0.0
+25003,Sinaloa,Badiraguato,0,0.0
+25004,Sinaloa,Concordia,0,0.0
+25005,Sinaloa,Cosalá,0,0.0
+25006,Sinaloa,Culiacán,1,0.02237136465324385
+25007,Sinaloa,Choix,0,0.0
+25008,Sinaloa,Elota,0,0.0
+25009,Sinaloa,Escuinapa,0,0.0
+25010,Sinaloa,El Fuerte,0,0.0
+25011,Sinaloa,Guasave,0,0.0
+25012,Sinaloa,Mazatlán,1,0.02237136465324385
+25013,Sinaloa,Mocorito,0,0.0
+25014,Sinaloa,Rosario,1,0.02237136465324385
+25015,Sinaloa,Salvador Alvarado,0,0.0
+25016,Sinaloa,San Ignacio,0,0.0
+25017,Sinaloa,Sinaloa,0,0.0
+25018,Sinaloa,Navolato,0,0.0
+25019,Sinaloa,Eldorado,0,0.0
+25020,Sinaloa,Juan José Ríos,0,0.0
+26001,Sonora,Aconchi,0,0.0
+26002,Sonora,Agua Prieta,0,0.0
+26003,Sonora,Alamos,0,0.0
+26004,Sonora,Altar,0,0.0
+26005,Sonora,Arivechi,0,0.0
+26006,Sonora,Arizpe,0,0.0
+26007,Sonora,Atil,0,0.0
+26008,Sonora,Bacadéhuachi,0,0.0
+26009,Sonora,Bacanora,0,0.0
+26010,Sonora,Bacerac,0,0.0
+26011,Sonora,Bacoachi,0,0.0
+26012,Sonora,Bácum,0,0.0
+26013,Sonora,Banámichi,0,0.0
+26014,Sonora,Baviácora,0,0.0
+26015,Sonora,Bavispe,0,0.0
+26016,Sonora,Benjamín Hill,0,0.0
+26017,Sonora,Caborca,0,0.0
+26018,Sonora,Cajeme,0,0.0
+26019,Sonora,Cananea,0,0.0
+26020,Sonora,Carbó,0,0.0
+26021,Sonora,La Colorada,0,0.0
+26022,Sonora,Cucurpe,0,0.0
+26023,Sonora,Cumpas,0,0.0
+26024,Sonora,Divisaderos,0,0.0
+26025,Sonora,Empalme,0,0.0
+26026,Sonora,Etchojoa,0,0.0
+26027,Sonora,Fronteras,0,0.0
+26028,Sonora,Granados,0,0.0
+26029,Sonora,Guaymas,0,0.0
+26030,Sonora,Hermosillo,0,0.0
+26031,Sonora,Huachinera,0,0.0
+26032,Sonora,Huásabas,0,0.0
+26033,Sonora,Huatabampo,0,0.0
+26034,Sonora,Huépac,0,0.0
+26035,Sonora,Imuris,0,0.0
+26036,Sonora,Magdalena,0,0.0
+26037,Sonora,Mazatán,0,0.0
+26038,Sonora,Moctezuma,0,0.0
+26039,Sonora,Naco,0,0.0
+26040,Sonora,Nácori Chico,0,0.0
+26041,Sonora,Nacozari de García,0,0.0
+26042,Sonora,Navojoa,0,0.0
+26043,Sonora,Nogales,1,0.02237136465324385
+26044,Sonora,Onavas,0,0.0
+26045,Sonora,Opodepe,0,0.0
+26046,Sonora,Oquitoa,0,0.0
+26047,Sonora,Pitiquito,0,0.0
+26048,Sonora,Puerto Peñasco,0,0.0
+26049,Sonora,Quiriego,0,0.0
+26050,Sonora,Rayón,0,0.0
+26051,Sonora,Rosario,0,0.0
+26052,Sonora,Sahuaripa,0,0.0
+26053,Sonora,San Felipe de Jesús,0,0.0
+26054,Sonora,San Javier,0,0.0
+26055,Sonora,San Luis Río Colorado,0,0.0
+26056,Sonora,San Miguel de Horcasitas,0,0.0
+26057,Sonora,San Pedro de la Cueva,0,0.0
+26058,Sonora,Santa Ana,0,0.0
+26059,Sonora,Santa Cruz,0,0.0
+26060,Sonora,Sáric,0,0.0
+26061,Sonora,Soyopa,0,0.0
+26062,Sonora,Suaqui Grande,0,0.0
+26063,Sonora,Tepache,0,0.0
+26064,Sonora,Trincheras,0,0.0
+26065,Sonora,Tubutama,0,0.0
+26066,Sonora,Ures,0,0.0
+26067,Sonora,Villa Hidalgo,0,0.0
+26068,Sonora,Villa Pesqueira,0,0.0
+26069,Sonora,Yécora,0,0.0
+26070,Sonora,General Plutarco Elías Calles,0,0.0
+26071,Sonora,Benito Juárez,0,0.0
+26072,Sonora,San Ignacio Río Muerto,0,0.0
+26998,Sonora,No Especificado,0,0.0
+26999,Sonora,Otros Municipios,0,0.0
+27001,Tabasco,Balancán,0,0.0
+27002,Tabasco,Cárdenas,0,0.0
+27003,Tabasco,Centla,0,0.0
+27004,Tabasco,Centro,1,0.02237136465324385
+27005,Tabasco,Comalcalco,0,0.0
+27006,Tabasco,Cunduacán,0,0.0
+27007,Tabasco,Emiliano Zapata,0,0.0
+27008,Tabasco,Huimanguillo,0,0.0
+27009,Tabasco,Jalapa,0,0.0
+27010,Tabasco,Jalpa de Méndez,0,0.0
+27011,Tabasco,Jonuta,0,0.0
+27012,Tabasco,Macuspana,0,0.0
+27013,Tabasco,Nacajuca,0,0.0
+27014,Tabasco,Paraíso,0,0.0
+27015,Tabasco,Tacotalpa,0,0.0
+27016,Tabasco,Teapa,0,0.0
+27017,Tabasco,Tenosique,0,0.0
+28001,Tamaulipas,Abasolo,0,0.0
+28002,Tamaulipas,Aldama,0,0.0
+28003,Tamaulipas,Altamira,0,0.0
+28004,Tamaulipas,Antiguo Morelos,0,0.0
+28005,Tamaulipas,Burgos,0,0.0
+28006,Tamaulipas,Bustamante,0,0.0
+28007,Tamaulipas,Camargo,0,0.0
+28008,Tamaulipas,Casas,0,0.0
+28009,Tamaulipas,Ciudad Madero,0,0.0
+28010,Tamaulipas,Cruillas,0,0.0
+28011,Tamaulipas,Gómez Farías,0,0.0
+28012,Tamaulipas,González,0,0.0
+28013,Tamaulipas,Güémez,0,0.0
+28014,Tamaulipas,Guerrero,0,0.0
+28015,Tamaulipas,Gustavo Díaz Ordaz,0,0.0
+28016,Tamaulipas,Hidalgo,1,0.02237136465324385
+28017,Tamaulipas,Jaumave,2,0.0447427293064877
+28018,Tamaulipas,Jiménez,0,0.0
+28019,Tamaulipas,Llera,0,0.0
+28020,Tamaulipas,Mainero,0,0.0
+28021,Tamaulipas,El Mante,0,0.0
+28022,Tamaulipas,Matamoros,0,0.0
+28023,Tamaulipas,Méndez,0,0.0
+28024,Tamaulipas,Mier,0,0.0
+28025,Tamaulipas,Miguel Alemán,0,0.0
+28026,Tamaulipas,Miquihuana,0,0.0
+28027,Tamaulipas,Nuevo Laredo,0,0.0
+28028,Tamaulipas,Nuevo Morelos,0,0.0
+28029,Tamaulipas,Ocampo,0,0.0
+28030,Tamaulipas,Padilla,0,0.0
+28031,Tamaulipas,Palmillas,0,0.0
+28032,Tamaulipas,Reynosa,0,0.0
+28033,Tamaulipas,Río Bravo,0,0.0
+28034,Tamaulipas,San Carlos,0,0.0
+28035,Tamaulipas,San Fernando,0,0.0
+28036,Tamaulipas,San Nicolás,0,0.0
+28037,Tamaulipas,Soto la Marina,0,0.0
+28038,Tamaulipas,Tampico,0,0.0
+28039,Tamaulipas,Tula,0,0.0
+28040,Tamaulipas,Valle Hermoso,0,0.0
+28041,Tamaulipas,Victoria,1,0.02237136465324385
+28042,Tamaulipas,Villagrán,0,0.0
+28043,Tamaulipas,Xicoténcatl,0,0.0
+29001,Tlaxcala,Amaxac de Guerrero,0,0.0
+29002,Tlaxcala,Apetatitlán de Antonio Carvajal,0,0.0
+29003,Tlaxcala,Atlangatepec,0,0.0
+29004,Tlaxcala,Atltzayanca,0,0.0
+29005,Tlaxcala,Apizaco,6,0.1342281879194631
+29006,Tlaxcala,Calpulalpan,11,0.24608501118568232
+29007,Tlaxcala,El Carmen Tequexquitla,2,0.0447427293064877
+29008,Tlaxcala,Cuapiaxtla,6,0.1342281879194631
+29009,Tlaxcala,Cuaxomulco,0,0.0
+29010,Tlaxcala,Chiautempan,5,0.11185682326621924
+29011,Tlaxcala,Muñoz de Domingo Arenas,0,0.0
+29012,Tlaxcala,Españita,2,0.0447427293064877
+29013,Tlaxcala,Huamantla,6,0.1342281879194631
+29014,Tlaxcala,Hueyotlipan,2,0.0447427293064877
+29015,Tlaxcala,Ixtacuixtla de Mariano Matamoros,2,0.0447427293064877
+29016,Tlaxcala,Ixtenco,0,0.0
+29017,Tlaxcala,Mazatecochco de José María Morelos,2,0.0447427293064877
+29018,Tlaxcala,Contla de Juan Cuamatzi,0,0.0
+29019,Tlaxcala,Tepetitla de Lardizábal,1,0.02237136465324385
+29020,Tlaxcala,Sanctórum de Lázaro Cárdenas,2,0.0447427293064877
+29021,Tlaxcala,Nanacamilpa de Mariano Arista,2,0.0447427293064877
+29022,Tlaxcala,Acuamanala de Miguel Hidalgo,0,0.0
+29023,Tlaxcala,Natívitas,1,0.02237136465324385
+29024,Tlaxcala,Panotla,0,0.0
+29025,Tlaxcala,San Pablo del Monte,7,0.15659955257270694
+29026,Tlaxcala,Santa Cruz Tlaxcala,1,0.02237136465324385
+29027,Tlaxcala,Tenancingo,2,0.0447427293064877
+29028,Tlaxcala,Teolocholco,1,0.02237136465324385
+29029,Tlaxcala,Tepeyanco,0,0.0
+29030,Tlaxcala,Terrenate,0,0.0
+29031,Tlaxcala,Tetla de la Solidaridad,0,0.0
+29032,Tlaxcala,Tetlatlahuca,0,0.0
+29033,Tlaxcala,Tlaxcala,1,0.02237136465324385
+29034,Tlaxcala,Tlaxco,7,0.15659955257270694
+29035,Tlaxcala,Tocatlán,1,0.02237136465324385
+29036,Tlaxcala,Totolac,0,0.0
+29037,Tlaxcala,Ziltlaltépec de Trinidad Sánchez Santos,0,0.0
+29038,Tlaxcala,Tzompantepec,0,0.0
+29039,Tlaxcala,Xaloztoc,3,0.06711409395973154
+29040,Tlaxcala,Xaltocan,3,0.06711409395973154
+29041,Tlaxcala,Papalotla de Xicohténcatl,4,0.0894854586129754
+29042,Tlaxcala,Xicohtzinco,0,0.0
+29043,Tlaxcala,Yauhquemehcan,5,0.11185682326621924
+29044,Tlaxcala,Zacatelco,1,0.02237136465324385
+29045,Tlaxcala,Benito Juárez,0,0.0
+29046,Tlaxcala,Emiliano Zapata,0,0.0
+29047,Tlaxcala,Lázaro Cárdenas,0,0.0
+29048,Tlaxcala,La Magdalena Tlaltelulco,0,0.0
+29049,Tlaxcala,San Damián Texóloc,0,0.0
+29050,Tlaxcala,San Francisco Tetlanohcan,0,0.0
+29051,Tlaxcala,San Jerónimo Zacualpan,0,0.0
+29052,Tlaxcala,San José Teacalco,0,0.0
+29053,Tlaxcala,San Juan Huactzinco,0,0.0
+29054,Tlaxcala,San Lorenzo Axocomanitla,1,0.02237136465324385
+29055,Tlaxcala,San Lucas Tecopilco,0,0.0
+29056,Tlaxcala,Santa Ana Nopalucan,0,0.0
+29057,Tlaxcala,Santa Apolonia Teacalco,0,0.0
+29058,Tlaxcala,Santa Catarina Ayometla,1,0.02237136465324385
+29059,Tlaxcala,Santa Cruz Quilehtla,0,0.0
+29060,Tlaxcala,Santa Isabel Xiloxoxtla,0,0.0
+30001,Veracruz de Ignacio de la Llave,Acajete,1,0.02237136465324385
+30002,Veracruz de Ignacio de la Llave,Acatlán,0,0.0
+30003,Veracruz de Ignacio de la Llave,Acayucan,1,0.02237136465324385
+30004,Veracruz de Ignacio de la Llave,Actopan,0,0.0
+30005,Veracruz de Ignacio de la Llave,Acula,0,0.0
+30006,Veracruz de Ignacio de la Llave,Acultzingo,0,0.0
+30007,Veracruz de Ignacio de la Llave,Camarón de Tejeda,0,0.0
+30008,Veracruz de Ignacio de la Llave,Alpatláhuac,0,0.0
+30009,Veracruz de Ignacio de la Llave,Alto Lucero de Gutiérrez Barrios,0,0.0
+30010,Veracruz de Ignacio de la Llave,Altotonga,3,0.06711409395973154
+30011,Veracruz de Ignacio de la Llave,Alvarado,0,0.0
+30012,Veracruz de Ignacio de la Llave,Amatitlán,0,0.0
+30013,Veracruz de Ignacio de la Llave,Naranjos Amatlán,0,0.0
+30014,Veracruz de Ignacio de la Llave,Amatlán de los Reyes,3,0.06711409395973154
+30015,Veracruz de Ignacio de la Llave,Angel R. Cabada,0,0.0
+30016,Veracruz de Ignacio de la Llave,La Antigua,1,0.02237136465324385
+30017,Veracruz de Ignacio de la Llave,Apazapan,0,0.0
+30018,Veracruz de Ignacio de la Llave,Aquila,0,0.0
+30019,Veracruz de Ignacio de la Llave,Astacinga,0,0.0
+30020,Veracruz de Ignacio de la Llave,Atlahuilco,0,0.0
+30021,Veracruz de Ignacio de la Llave,Atoyac,0,0.0
+30022,Veracruz de Ignacio de la Llave,Atzacan,0,0.0
+30023,Veracruz de Ignacio de la Llave,Atzalan,0,0.0
+30024,Veracruz de Ignacio de la Llave,Tlaltetela,0,0.0
+30025,Veracruz de Ignacio de la Llave,Ayahualulco,0,0.0
+30026,Veracruz de Ignacio de la Llave,Banderilla,1,0.02237136465324385
+30027,Veracruz de Ignacio de la Llave,Benito Juárez,0,0.0
+30028,Veracruz de Ignacio de la Llave,Boca del Río,0,0.0
+30029,Veracruz de Ignacio de la Llave,Calcahualco,0,0.0
+30030,Veracruz de Ignacio de la Llave,Camerino Z. Mendoza,0,0.0
+30031,Veracruz de Ignacio de la Llave,Carrillo Puerto,1,0.02237136465324385
+30032,Veracruz de Ignacio de la Llave,Catemaco,0,0.0
+30033,Veracruz de Ignacio de la Llave,Cazones de Herrera,0,0.0
+30034,Veracruz de Ignacio de la Llave,Cerro Azul,0,0.0
+30035,Veracruz de Ignacio de la Llave,Citlaltépetl,0,0.0
+30036,Veracruz de Ignacio de la Llave,Coacoatzintla,0,0.0
+30037,Veracruz de Ignacio de la Llave,Coahuitlán,0,0.0
+30038,Veracruz de Ignacio de la Llave,Coatepec,0,0.0
+30039,Veracruz de Ignacio de la Llave,Coatzacoalcos,3,0.06711409395973154
+30040,Veracruz de Ignacio de la Llave,Coatzintla,0,0.0
+30041,Veracruz de Ignacio de la Llave,Coetzala,0,0.0
+30042,Veracruz de Ignacio de la Llave,Colipa,0,0.0
+30043,Veracruz de Ignacio de la Llave,Comapa,0,0.0
+30044,Veracruz de Ignacio de la Llave,Córdoba,1,0.02237136465324385
+30045,Veracruz de Ignacio de la Llave,Cosamaloapan de Carpio,0,0.0
+30046,Veracruz de Ignacio de la Llave,Cosautlán de Carvajal,0,0.0
+30047,Veracruz de Ignacio de la Llave,Coscomatepec,0,0.0
+30048,Veracruz de Ignacio de la Llave,Cosoleacaque,3,0.06711409395973154
+30049,Veracruz de Ignacio de la Llave,Cotaxtla,1,0.02237136465324385
+30050,Veracruz de Ignacio de la Llave,Coxquihui,0,0.0
+30051,Veracruz de Ignacio de la Llave,Coyutla,0,0.0
+30052,Veracruz de Ignacio de la Llave,Cuichapa,0,0.0
+30053,Veracruz de Ignacio de la Llave,Cuitláhuac,2,0.0447427293064877
+30054,Veracruz de Ignacio de la Llave,Chacaltianguis,0,0.0
+30055,Veracruz de Ignacio de la Llave,Chalma,0,0.0
+30056,Veracruz de Ignacio de la Llave,Chiconamel,0,0.0
+30057,Veracruz de Ignacio de la Llave,Chiconquiaco,0,0.0
+30058,Veracruz de Ignacio de la Llave,Chicontepec,0,0.0
+30059,Veracruz de Ignacio de la Llave,Chinameca,0,0.0
+30060,Veracruz de Ignacio de la Llave,Chinampa de Gorostiza,0,0.0
+30061,Veracruz de Ignacio de la Llave,Las Choapas,1,0.02237136465324385
+30062,Veracruz de Ignacio de la Llave,Chocamán,0,0.0
+30063,Veracruz de Ignacio de la Llave,Chontla,0,0.0
+30064,Veracruz de Ignacio de la Llave,Chumatlán,0,0.0
+30065,Veracruz de Ignacio de la Llave,Emiliano Zapata,1,0.02237136465324385
+30066,Veracruz de Ignacio de la Llave,Espinal,0,0.0
+30067,Veracruz de Ignacio de la Llave,Filomeno Mata,0,0.0
+30068,Veracruz de Ignacio de la Llave,Fortín,1,0.02237136465324385
+30069,Veracruz de Ignacio de la Llave,Gutiérrez Zamora,0,0.0
+30070,Veracruz de Ignacio de la Llave,Hidalgotitlán,0,0.0
+30071,Veracruz de Ignacio de la Llave,Huatusco,0,0.0
+30072,Veracruz de Ignacio de la Llave,Huayacocotla,0,0.0
+30073,Veracruz de Ignacio de la Llave,Hueyapan de Ocampo,0,0.0
+30074,Veracruz de Ignacio de la Llave,Huiloapan de Cuauhtémoc,0,0.0
+30075,Veracruz de Ignacio de la Llave,Ignacio de la Llave,0,0.0
+30076,Veracruz de Ignacio de la Llave,Ilamatlán,0,0.0
+30077,Veracruz de Ignacio de la Llave,Isla,3,0.06711409395973154
+30078,Veracruz de Ignacio de la Llave,Ixcatepec,0,0.0
+30079,Veracruz de Ignacio de la Llave,Ixhuacán de los Reyes,0,0.0
+30080,Veracruz de Ignacio de la Llave,Ixhuatlán del Café,0,0.0
+30081,Veracruz de Ignacio de la Llave,Ixhuatlancillo,0,0.0
+30082,Veracruz de Ignacio de la Llave,Ixhuatlán del Sureste,0,0.0
+30083,Veracruz de Ignacio de la Llave,Ixhuatlán de Madero,0,0.0
+30084,Veracruz de Ignacio de la Llave,Ixmatlahuacan,0,0.0
+30085,Veracruz de Ignacio de la Llave,Ixtaczoquitlán,1,0.02237136465324385
+30086,Veracruz de Ignacio de la Llave,Jalacingo,1,0.02237136465324385
+30087,Veracruz de Ignacio de la Llave,Xalapa,3,0.06711409395973154
+30088,Veracruz de Ignacio de la Llave,Jalcomulco,0,0.0
+30089,Veracruz de Ignacio de la Llave,Jáltipan,1,0.02237136465324385
+30090,Veracruz de Ignacio de la Llave,Jamapa,1,0.02237136465324385
+30091,Veracruz de Ignacio de la Llave,Jesús Carranza,0,0.0
+30092,Veracruz de Ignacio de la Llave,Xico,0,0.0
+30093,Veracruz de Ignacio de la Llave,Jilotepec,0,0.0
+30094,Veracruz de Ignacio de la Llave,Juan Rodríguez Clara,1,0.02237136465324385
+30095,Veracruz de Ignacio de la Llave,Juchique de Ferrer,0,0.0
+30096,Veracruz de Ignacio de la Llave,Landero y Coss,0,0.0
+30097,Veracruz de Ignacio de la Llave,Lerdo de Tejada,0,0.0
+30098,Veracruz de Ignacio de la Llave,Magdalena,0,0.0
+30099,Veracruz de Ignacio de la Llave,Maltrata,0,0.0
+30100,Veracruz de Ignacio de la Llave,Manlio Fabio Altamirano,0,0.0
+30101,Veracruz de Ignacio de la Llave,Mariano Escobedo,0,0.0
+30102,Veracruz de Ignacio de la Llave,Martínez de la Torre,0,0.0
+30103,Veracruz de Ignacio de la Llave,Mecatlán,0,0.0
+30104,Veracruz de Ignacio de la Llave,Mecayapan,0,0.0
+30105,Veracruz de Ignacio de la Llave,Medellín de Bravo,0,0.0
+30106,Veracruz de Ignacio de la Llave,Miahuatlán,0,0.0
+30107,Veracruz de Ignacio de la Llave,Las Minas,0,0.0
+30108,Veracruz de Ignacio de la Llave,Minatitlán,2,0.0447427293064877
+30109,Veracruz de Ignacio de la Llave,Misantla,1,0.02237136465324385
+30110,Veracruz de Ignacio de la Llave,Mixtla de Altamirano,0,0.0
+30111,Veracruz de Ignacio de la Llave,Moloacán,0,0.0
+30112,Veracruz de Ignacio de la Llave,Naolinco,0,0.0
+30113,Veracruz de Ignacio de la Llave,Naranjal,0,0.0
+30114,Veracruz de Ignacio de la Llave,Nautla,0,0.0
+30115,Veracruz de Ignacio de la Llave,Nogales,0,0.0
+30116,Veracruz de Ignacio de la Llave,Oluta,0,0.0
+30117,Veracruz de Ignacio de la Llave,Omealca,0,0.0
+30118,Veracruz de Ignacio de la Llave,Orizaba,0,0.0
+30119,Veracruz de Ignacio de la Llave,Otatitlán,0,0.0
+30120,Veracruz de Ignacio de la Llave,Oteapan,0,0.0
+30121,Veracruz de Ignacio de la Llave,Ozuluama de Mascareñas,0,0.0
+30122,Veracruz de Ignacio de la Llave,Pajapan,0,0.0
+30123,Veracruz de Ignacio de la Llave,Pánuco,0,0.0
+30124,Veracruz de Ignacio de la Llave,Papantla,0,0.0
+30125,Veracruz de Ignacio de la Llave,Paso del Macho,0,0.0
+30126,Veracruz de Ignacio de la Llave,Paso de Ovejas,2,0.0447427293064877
+30127,Veracruz de Ignacio de la Llave,La Perla,0,0.0
+30128,Veracruz de Ignacio de la Llave,Perote,8,0.1789709172259508
+30129,Veracruz de Ignacio de la Llave,Platón Sánchez,0,0.0
+30130,Veracruz de Ignacio de la Llave,Playa Vicente,0,0.0
+30131,Veracruz de Ignacio de la Llave,Poza Rica de Hidalgo,0,0.0
+30132,Veracruz de Ignacio de la Llave,Las Vigas de Ramírez,1,0.02237136465324385
+30133,Veracruz de Ignacio de la Llave,Pueblo Viejo,0,0.0
+30134,Veracruz de Ignacio de la Llave,Puente Nacional,0,0.0
+30135,Veracruz de Ignacio de la Llave,Rafael Delgado,0,0.0
+30136,Veracruz de Ignacio de la Llave,Rafael Lucio,0,0.0
+30137,Veracruz de Ignacio de la Llave,Los Reyes,0,0.0
+30138,Veracruz de Ignacio de la Llave,Río Blanco,0,0.0
+30139,Veracruz de Ignacio de la Llave,Saltabarranca,0,0.0
+30140,Veracruz de Ignacio de la Llave,San Andrés Tenejapan,0,0.0
+30141,Veracruz de Ignacio de la Llave,San Andrés Tuxtla,1,0.02237136465324385
+30142,Veracruz de Ignacio de la Llave,San Juan Evangelista,0,0.0
+30143,Veracruz de Ignacio de la Llave,Santiago Tuxtla,0,0.0
+30144,Veracruz de Ignacio de la Llave,Sayula de Alemán,1,0.02237136465324385
+30145,Veracruz de Ignacio de la Llave,Soconusco,0,0.0
+30146,Veracruz de Ignacio de la Llave,Sochiapa,0,0.0
+30147,Veracruz de Ignacio de la Llave,Soledad Atzompa,0,0.0
+30148,Veracruz de Ignacio de la Llave,Soledad de Doblado,0,0.0
+30149,Veracruz de Ignacio de la Llave,Soteapan,0,0.0
+30150,Veracruz de Ignacio de la Llave,Tamalín,0,0.0
+30151,Veracruz de Ignacio de la Llave,Tamiahua,0,0.0
+30152,Veracruz de Ignacio de la Llave,Tampico Alto,0,0.0
+30153,Veracruz de Ignacio de la Llave,Tancoco,0,0.0
+30154,Veracruz de Ignacio de la Llave,Tantima,0,0.0
+30155,Veracruz de Ignacio de la Llave,Tantoyuca,1,0.02237136465324385
+30156,Veracruz de Ignacio de la Llave,Tatatila,0,0.0
+30157,Veracruz de Ignacio de la Llave,Castillo de Teayo,0,0.0
+30158,Veracruz de Ignacio de la Llave,Tecolutla,1,0.02237136465324385
+30159,Veracruz de Ignacio de la Llave,Tehuipango,1,0.02237136465324385
+30160,Veracruz de Ignacio de la Llave,Álamo Temapache,0,0.0
+30161,Veracruz de Ignacio de la Llave,Tempoal,0,0.0
+30162,Veracruz de Ignacio de la Llave,Tenampa,0,0.0
+30163,Veracruz de Ignacio de la Llave,Tenochtitlán,0,0.0
+30164,Veracruz de Ignacio de la Llave,Teocelo,0,0.0
+30165,Veracruz de Ignacio de la Llave,Tepatlaxco,0,0.0
+30166,Veracruz de Ignacio de la Llave,Tepetlán,0,0.0
+30167,Veracruz de Ignacio de la Llave,Tepetzintla,0,0.0
+30168,Veracruz de Ignacio de la Llave,Tequila,0,0.0
+30169,Veracruz de Ignacio de la Llave,José Azueta,2,0.0447427293064877
+30170,Veracruz de Ignacio de la Llave,Texcatepec,0,0.0
+30171,Veracruz de Ignacio de la Llave,Texhuacán,0,0.0
+30172,Veracruz de Ignacio de la Llave,Texistepec,0,0.0
+30173,Veracruz de Ignacio de la Llave,Tezonapa,2,0.0447427293064877
+30174,Veracruz de Ignacio de la Llave,Tierra Blanca,2,0.0447427293064877
+30175,Veracruz de Ignacio de la Llave,Tihuatlán,0,0.0
+30176,Veracruz de Ignacio de la Llave,Tlacojalpan,0,0.0
+30177,Veracruz de Ignacio de la Llave,Tlacolulan,3,0.06711409395973154
+30178,Veracruz de Ignacio de la Llave,Tlacotalpan,0,0.0
+30179,Veracruz de Ignacio de la Llave,Tlacotepec de Mejía,0,0.0
+30180,Veracruz de Ignacio de la Llave,Tlachichilco,0,0.0
+30181,Veracruz de Ignacio de la Llave,Tlalixcoyan,1,0.02237136465324385
+30182,Veracruz de Ignacio de la Llave,Tlalnelhuayocan,0,0.0
+30183,Veracruz de Ignacio de la Llave,Tlapacoyan,0,0.0
+30184,Veracruz de Ignacio de la Llave,Tlaquilpa,0,0.0
+30185,Veracruz de Ignacio de la Llave,Tlilapan,0,0.0
+30186,Veracruz de Ignacio de la Llave,Tomatlán,0,0.0
+30187,Veracruz de Ignacio de la Llave,Tonayán,0,0.0
+30188,Veracruz de Ignacio de la Llave,Totutla,0,0.0
+30189,Veracruz de Ignacio de la Llave,Tuxpan,0,0.0
+30190,Veracruz de Ignacio de la Llave,Tuxtilla,0,0.0
+30191,Veracruz de Ignacio de la Llave,Ursulo Galván,2,0.0447427293064877
+30192,Veracruz de Ignacio de la Llave,Vega de Alatorre,1,0.02237136465324385
+30193,Veracruz de Ignacio de la Llave,Veracruz,13,0.29082774049217003
+30194,Veracruz de Ignacio de la Llave,Villa Aldama,0,0.0
+30195,Veracruz de Ignacio de la Llave,Xoxocotla,0,0.0
+30196,Veracruz de Ignacio de la Llave,Yanga,0,0.0
+30197,Veracruz de Ignacio de la Llave,Yecuatla,0,0.0
+30198,Veracruz de Ignacio de la Llave,Zacualpan,0,0.0
+30199,Veracruz de Ignacio de la Llave,Zaragoza,0,0.0
+30200,Veracruz de Ignacio de la Llave,Zentla,0,0.0
+30201,Veracruz de Ignacio de la Llave,Zongolica,0,0.0
+30202,Veracruz de Ignacio de la Llave,Zontecomatlán de López y Fuentes,0,0.0
+30203,Veracruz de Ignacio de la Llave,Zozocolco de Hidalgo,0,0.0
+30204,Veracruz de Ignacio de la Llave,Agua Dulce,4,0.0894854586129754
+30205,Veracruz de Ignacio de la Llave,El Higo,0,0.0
+30206,Veracruz de Ignacio de la Llave,Nanchital de Lázaro Cárdenas del Río,0,0.0
+30207,Veracruz de Ignacio de la Llave,Tres Valles,0,0.0
+30208,Veracruz de Ignacio de la Llave,Carlos A. Carrillo,0,0.0
+30209,Veracruz de Ignacio de la Llave,Tatahuicapan de Juárez,0,0.0
+30210,Veracruz de Ignacio de la Llave,Uxpanapa,0,0.0
+30211,Veracruz de Ignacio de la Llave,San Rafael,0,0.0
+30212,Veracruz de Ignacio de la Llave,Santiago Sochiapan,0,0.0
+30998,Veracruz de Ignacio de la Llave,No Especificado,0,0.0
+30999,Veracruz de Ignacio de la Llave,Otros Municipios,1,0.02237136465324385
+31001,Yucatán,Abalá,0,0.0
+31002,Yucatán,Acanceh,0,0.0
+31003,Yucatán,Akil,0,0.0
+31004,Yucatán,Baca,0,0.0
+31005,Yucatán,Bokobá,0,0.0
+31006,Yucatán,Buctzotz,0,0.0
+31007,Yucatán,Cacalchén,0,0.0
+31008,Yucatán,Calotmul,0,0.0
+31009,Yucatán,Cansahcab,0,0.0
+31010,Yucatán,Cantamayec,0,0.0
+31011,Yucatán,Celestún,0,0.0
+31012,Yucatán,Cenotillo,0,0.0
+31013,Yucatán,Conkal,0,0.0
+31014,Yucatán,Cuncunul,0,0.0
+31015,Yucatán,Cuzamá,0,0.0
+31016,Yucatán,Chacsinkín,0,0.0
+31017,Yucatán,Chankom,0,0.0
+31018,Yucatán,Chapab,0,0.0
+31019,Yucatán,Chemax,0,0.0
+31020,Yucatán,Chicxulub Pueblo,0,0.0
+31021,Yucatán,Chichimilá,0,0.0
+31022,Yucatán,Chikindzonot,0,0.0
+31023,Yucatán,Chocholá,0,0.0
+31024,Yucatán,Chumayel,0,0.0
+31025,Yucatán,Dzán,0,0.0
+31026,Yucatán,Dzemul,0,0.0
+31027,Yucatán,Dzidzantún,0,0.0
+31028,Yucatán,Dzilam de Bravo,0,0.0
+31029,Yucatán,Dzilam González,0,0.0
+31030,Yucatán,Dzitás,0,0.0
+31031,Yucatán,Dzoncauich,0,0.0
+31032,Yucatán,Espita,0,0.0
+31033,Yucatán,Halachó,0,0.0
+31034,Yucatán,Hocabá,0,0.0
+31035,Yucatán,Hoctún,0,0.0
+31036,Yucatán,Homún,0,0.0
+31037,Yucatán,Huhí,0,0.0
+31038,Yucatán,Hunucmá,0,0.0
+31039,Yucatán,Ixil,0,0.0
+31040,Yucatán,Izamal,0,0.0
+31041,Yucatán,Kanasín,0,0.0
+31042,Yucatán,Kantunil,0,0.0
+31043,Yucatán,Kaua,0,0.0
+31044,Yucatán,Kinchil,0,0.0
+31045,Yucatán,Kopomá,0,0.0
+31046,Yucatán,Mama,0,0.0
+31047,Yucatán,Maní,0,0.0
+31048,Yucatán,Maxcanú,0,0.0
+31049,Yucatán,Mayapán,0,0.0
+31050,Yucatán,Mérida,0,0.0
+31051,Yucatán,Mocochá,0,0.0
+31052,Yucatán,Motul,0,0.0
+31053,Yucatán,Muna,0,0.0
+31054,Yucatán,Muxupip,0,0.0
+31055,Yucatán,Opichén,0,0.0
+31056,Yucatán,Oxkutzcab,0,0.0
+31057,Yucatán,Panabá,0,0.0
+31058,Yucatán,Peto,0,0.0
+31059,Yucatán,Progreso,0,0.0
+31060,Yucatán,Quintana Roo,0,0.0
+31061,Yucatán,Río Lagartos,0,0.0
+31062,Yucatán,Sacalum,0,0.0
+31063,Yucatán,Samahil,0,0.0
+31064,Yucatán,Sanahcat,0,0.0
+31065,Yucatán,San Felipe,0,0.0
+31066,Yucatán,Santa Elena,0,0.0
+31067,Yucatán,Seyé,0,0.0
+31068,Yucatán,Sinanché,0,0.0
+31069,Yucatán,Sotuta,0,0.0
+31070,Yucatán,Sucilá,0,0.0
+31071,Yucatán,Sudzal,0,0.0
+31072,Yucatán,Suma,0,0.0
+31073,Yucatán,Tahdziú,0,0.0
+31074,Yucatán,Tahmek,0,0.0
+31075,Yucatán,Teabo,0,0.0
+31076,Yucatán,Tecoh,0,0.0
+31077,Yucatán,Tekal de Venegas,0,0.0
+31078,Yucatán,Tekantó,0,0.0
+31079,Yucatán,Tekax,0,0.0
+31080,Yucatán,Tekit,0,0.0
+31081,Yucatán,Tekom,0,0.0
+31082,Yucatán,Telchac Pueblo,0,0.0
+31083,Yucatán,Telchac Puerto,0,0.0
+31084,Yucatán,Temax,0,0.0
+31085,Yucatán,Temozón,0,0.0
+31086,Yucatán,Tepakán,0,0.0
+31087,Yucatán,Tetiz,0,0.0
+31088,Yucatán,Teya,0,0.0
+31089,Yucatán,Ticul,0,0.0
+31090,Yucatán,Timucuy,0,0.0
+31091,Yucatán,Tinum,0,0.0
+31092,Yucatán,Tixcacalcupul,0,0.0
+31093,Yucatán,Tixkokob,0,0.0
+31094,Yucatán,Tixmehuac,0,0.0
+31095,Yucatán,Tixpéhual,0,0.0
+31096,Yucatán,Tizimín,0,0.0
+31097,Yucatán,Tunkás,0,0.0
+31098,Yucatán,Tzucacab,0,0.0
+31099,Yucatán,Uayma,0,0.0
+31100,Yucatán,Ucú,0,0.0
+31101,Yucatán,Umán,0,0.0
+31102,Yucatán,Valladolid,0,0.0
+31103,Yucatán,Xocchel,0,0.0
+31104,Yucatán,Yaxcabá,0,0.0
+31105,Yucatán,Yaxkukul,0,0.0
+31106,Yucatán,Yobaín,0,0.0
+32001,Zacatecas,Apozol,0,0.0
+32002,Zacatecas,Apulco,0,0.0
+32003,Zacatecas,Atolinga,0,0.0
+32004,Zacatecas,Benito Juárez,0,0.0
+32005,Zacatecas,Calera,2,0.0447427293064877
+32006,Zacatecas,Cañitas de Felipe Pescador,0,0.0
+32007,Zacatecas,Concepción del Oro,1,0.02237136465324385
+32008,Zacatecas,Cuauhtémoc,0,0.0
+32009,Zacatecas,Chalchihuites,0,0.0
+32010,Zacatecas,Fresnillo,1,0.02237136465324385
+32011,Zacatecas,Trinidad García de la Cadena,0,0.0
+32012,Zacatecas,Genaro Codina,0,0.0
+32013,Zacatecas,General Enrique Estrada,1,0.02237136465324385
+32014,Zacatecas,General Francisco R. Murguía,0,0.0
+32015,Zacatecas,El Plateado de Joaquín Amaro,0,0.0
+32016,Zacatecas,General Pánfilo Natera,0,0.0
+32017,Zacatecas,Guadalupe,0,0.0
+32018,Zacatecas,Huanusco,0,0.0
+32019,Zacatecas,Jalpa,0,0.0
+32020,Zacatecas,Jerez,0,0.0
+32021,Zacatecas,Jiménez del Teul,0,0.0
+32022,Zacatecas,Juan Aldama,1,0.02237136465324385
+32023,Zacatecas,Juchipila,0,0.0
+32024,Zacatecas,Loreto,0,0.0
+32025,Zacatecas,Luis Moya,0,0.0
+32026,Zacatecas,Mazapil,0,0.0
+32027,Zacatecas,Melchor Ocampo,0,0.0
+32028,Zacatecas,Mezquital del Oro,0,0.0
+32029,Zacatecas,Miguel Auza,0,0.0
+32030,Zacatecas,Momax,0,0.0
+32031,Zacatecas,Monte Escobedo,0,0.0
+32032,Zacatecas,Morelos,0,0.0
+32033,Zacatecas,Moyahua de Estrada,0,0.0
+32034,Zacatecas,Nochistlán de Mejía,0,0.0
+32035,Zacatecas,Noria de Ángeles,0,0.0
+32036,Zacatecas,Ojocaliente,0,0.0
+32037,Zacatecas,Pánuco,0,0.0
+32038,Zacatecas,Pinos,2,0.0447427293064877
+32039,Zacatecas,Río Grande,0,0.0
+32040,Zacatecas,Sain Alto,0,0.0
+32041,Zacatecas,El Salvador,0,0.0
+32042,Zacatecas,Sombrerete,0,0.0
+32043,Zacatecas,Susticacán,0,0.0
+32044,Zacatecas,Tabasco,0,0.0
+32045,Zacatecas,Tepechitlán,0,0.0
+32046,Zacatecas,Tepetongo,0,0.0
+32047,Zacatecas,Teúl de González Ortega,0,0.0
+32048,Zacatecas,Tlaltenango de Sánchez Román,1,0.02237136465324385
+32049,Zacatecas,Valparaíso,0,0.0
+32050,Zacatecas,Vetagrande,0,0.0
+32051,Zacatecas,Villa de Cos,1,0.02237136465324385
+32052,Zacatecas,Villa García,0,0.0
+32053,Zacatecas,Villa González Ortega,0,0.0
+32054,Zacatecas,Villa Hidalgo,0,0.0
+32055,Zacatecas,Villanueva,0,0.0
+32056,Zacatecas,Zacatecas,0,0.0
+32057,Zacatecas,Trancoso,0,0.0
+32058,Zacatecas,Santa María de la Paz,0,0.0
